@@ -1,0 +1,443 @@
+{
+  "mainAssemblyName": "InPixioLabs.Web.dll",
+  "assemblyRootFolder": "managed",
+  "debugLevel": 0,
+  "assets": [
+    {
+      "behavior": "assembly",
+      "name": "Avalonia.Base.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Avalonia.Browser.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Avalonia.Controls.ColorPicker.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Avalonia.Controls.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Avalonia.Dialogs.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Avalonia.Fonts.Inter.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Avalonia.Markup.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Avalonia.Markup.Xaml.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Avalonia.OpenGL.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Avalonia.ReactiveUI.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Avalonia.Skia.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Avalonia.Svg.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "CommunityToolkit.Mvvm.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "DynamicData.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "ExCSS.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Fizzler.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "HarfBuzzSharp.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "InPixio.Canva.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "InPixio.Core.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "InPixioLabs.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "InPixioLabs.Web.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.CSharp.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Configuration.Abstractions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Configuration.Binder.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Configuration.CommandLine.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Configuration.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Configuration.EnvironmentVariables.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Configuration.FileExtensions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Configuration.Json.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Configuration.UserSecrets.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.DependencyInjection.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.FileProviders.Abstractions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.FileProviders.Physical.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.FileSystemGlobbing.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Hosting.Abstractions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Hosting.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Logging.Abstractions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Logging.Configuration.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Logging.Console.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Logging.Debug.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Logging.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Logging.EventLog.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Logging.EventSource.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Options.ConfigurationExtensions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Options.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Microsoft.Extensions.Primitives.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "ModernUserInterface.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "MUI.Themes.Fluent.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "MUI.Themes.InPixio.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Newtonsoft.Json.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "ReactiveUI.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Serilog.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "ShimSkiaSharp.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "SkiaSharp.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Splat.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Svg.Custom.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Svg.Model.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Svg.Skia.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Collections.Concurrent.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Collections.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Collections.NonGeneric.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Collections.Specialized.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.ComponentModel.Annotations.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.ComponentModel.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.ComponentModel.Primitives.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.ComponentModel.TypeConverter.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Console.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Data.Common.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Diagnostics.DiagnosticSource.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Diagnostics.EventLog.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Diagnostics.Process.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Diagnostics.TraceSource.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Drawing.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Drawing.Primitives.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.IO.Compression.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.IO.FileSystem.Watcher.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.IO.Packaging.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Linq.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Linq.Expressions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Memory.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Net.Http.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Net.Primitives.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Net.Requests.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.ObjectModel.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Private.CoreLib.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Private.Uri.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Private.Xml.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Private.Xml.Linq.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Reactive.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Runtime.InteropServices.JavaScript.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Runtime.Numerics.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Runtime.Serialization.Formatters.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Runtime.Serialization.Primitives.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Security.Cryptography.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Text.Encodings.Web.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Text.Json.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Text.RegularExpressions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Xml.Linq.dll"
+    },
+    {
+      "culture": "fr",
+      "behavior": "resource",
+      "name": "InPixio.Canva.resources.dll"
+    },
+    {
+      "culture": "fr",
+      "behavior": "resource",
+      "name": "InPixio.Core.resources.dll"
+    },
+    {
+      "culture": "fr",
+      "behavior": "resource",
+      "name": "InPixioLabs.resources.dll"
+    },
+    {
+      "culture": "fr",
+      "behavior": "resource",
+      "name": "ModernUserInterface.resources.dll"
+    },
+    {
+      "virtualPath": "runtimeconfig.bin",
+      "behavior": "vfs",
+      "name": "supportFiles/0_runtimeconfig.bin"
+    },
+    {
+      "virtualPath": "/usr/share/zoneinfo/",
+      "behavior": "vfs",
+      "name": "dotnet.timezones.blat"
+    },
+    {
+      "behavior": "dotnetwasm",
+      "name": "dotnet.wasm"
+    }
+  ],
+  "remoteSources": [],
+  "pthreadPoolSize": 0
+}
