@@ -81,6 +81,10 @@
     },
     {
       "behavior": "assembly",
+      "name": "InPixio.Mathematics.dll"
+    },
+    {
+      "behavior": "assembly",
       "name": "InPixioLabs.dll"
     },
     {
