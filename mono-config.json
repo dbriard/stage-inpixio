@@ -65,10 +65,6 @@
     },
     {
       "behavior": "assembly",
-      "name": "DynamicData.dll"
-    },
-    {
-      "behavior": "assembly",
       "name": "ExCSS.dll"
     },
     {
