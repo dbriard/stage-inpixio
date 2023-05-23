@@ -21,10 +21,6 @@
     },
     {
       "behavior": "assembly",
-      "name": "Avalonia.Controls.ItemsRepeater.dll"
-    },
-    {
-      "behavior": "assembly",
       "name": "Avalonia.Dialogs.dll"
     },
     {
@@ -38,10 +34,6 @@
     {
       "behavior": "assembly",
       "name": "Avalonia.Markup.Xaml.dll"
-    },
-    {
-      "behavior": "assembly",
-      "name": "Avalonia.Mathematics.dll"
     },
     {
       "behavior": "assembly",
@@ -62,6 +54,10 @@
     {
       "behavior": "assembly",
       "name": "CommunityToolkit.Mvvm.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "DynamicData.dll"
     },
     {
       "behavior": "assembly",
