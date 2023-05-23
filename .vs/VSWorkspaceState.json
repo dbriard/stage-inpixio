@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\images"
+    "\\assets\\images",
+    "\\Data"
   ],
-  "SelectedNode": "\\assets\\images",
+  "SelectedNode": "\\Data\\shapes.json",
   "PreviewInSolutionExplorer": false
 }
