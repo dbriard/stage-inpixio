@@ -317,7 +317,7 @@
       {
         "id": "holidays_05",
         "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vectors/holidays_05.svg",
-        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vectors/holidays_05-96x96.png"
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vectors/holidays_05-96x86.png"
       },
       {
         "id": "holidays_06",
@@ -529,12 +529,12 @@
       {
         "id": "seasons",
         "imageURL": "https://dbriard.github.io/stage-inpixio/Data/seasons.json",
-        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vectors/season_01-90x96.png"
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vectors/seasons-148x96.jpg"
       },
       {
         "id": "holidays",
         "imageURL": "https://dbriard.github.io/stage-inpixio/Data/holidays.json",
-        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vectors/holidays_01-74x96.png"
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vectors/holidays-148x96.jpg"
       }
     ]
   }
