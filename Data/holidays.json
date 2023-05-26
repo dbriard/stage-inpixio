@@ -9,7 +9,7 @@
       }
     ],
     "Layout": {
-      "LayoutType": "UniformGridLayout",
+      "LayoutId": "UniformGridLayout",
       "MinColumnSpacing": 8,
       "MinItemHeight": 96,
       "MinItemWidth": 96,
@@ -17,8 +17,8 @@
       "MaximumRowsOrColumns": 1,
       "Orientation": 1
     },
-    "ExpandedLayout": {
-      "LayoutType": "UniformGridLayout",
+    "PopularLayout": {
+      "LayoutId": "UniformGridLayout",
       "MinColumnSpacing": 8,
       "MinItemHeight": 96,
       "MinItemWidth": 96,
