@@ -508,8 +508,8 @@
     "Layout": {
       "LayoutType": "UniformGridLayout",
       "MinColumnSpacing": 8,
-      "MinItemHeight": 148,
-      "MinItemWidth": 96,
+      "MinItemWidth": 148,
+      "MinItemHeight": 96,
       "MinRowSpacing": 8,
       "MaximumRowsOrColumns": 1,
       "Orientation": 1
