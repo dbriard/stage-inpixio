@@ -21,6 +21,10 @@
     },
     {
       "behavior": "assembly",
+      "name": "Avalonia.Controls.ItemsRepeater.dll"
+    },
+    {
+      "behavior": "assembly",
       "name": "Avalonia.Dialogs.dll"
     },
     {
@@ -34,6 +38,10 @@
     {
       "behavior": "assembly",
       "name": "Avalonia.Markup.Xaml.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "Avalonia.Mathematics.dll"
     },
     {
       "behavior": "assembly",
@@ -57,10 +65,6 @@
     },
     {
       "behavior": "assembly",
-      "name": "DynamicData.dll"
-    },
-    {
-      "behavior": "assembly",
       "name": "ExCSS.dll"
     },
     {
@@ -70,6 +74,14 @@
     {
       "behavior": "assembly",
       "name": "HarfBuzzSharp.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "IdentityModel.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "IdentityModel.OidcClient.dll"
     },
     {
       "behavior": "assembly",
@@ -386,6 +398,10 @@
     {
       "behavior": "assembly",
       "name": "System.Runtime.Serialization.Primitives.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Security.Claims.dll"
     },
     {
       "behavior": "assembly",
