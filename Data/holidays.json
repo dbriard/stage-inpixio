@@ -1,0 +1,94 @@
+[
+  {
+    "Title": "Holidays",
+    "ElementType": "Svg",
+    "Translations": [
+      {
+        "Language": "fr",
+        "Title": "Vacances"
+      }
+    ],
+    "Layout": {
+      "LayoutType": "UniformGridLayout",
+      "MinColumnSpacing": 8,
+      "MinItemHeight": 96,
+      "MinItemWidth": 96,
+      "MinRowSpacing": 8,
+      "MaximumRowsOrColumns": 1,
+      "Orientation": 1
+    },
+    "ExpandedLayout": {
+      "LayoutType": "UniformGridLayout",
+      "MinColumnSpacing": 8,
+      "MinItemHeight": 96,
+      "MinItemWidth": 96,
+      "MinRowSpacing": 8,
+      "MaximumRowsOrColumns": 1,
+      "Orientation": 1
+    },
+    "Count": 12,
+    "Total": 16,
+    "Results": [
+      {
+        "id": "holidays_01",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_01.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_01-74x96.png"
+      },
+      {
+        "id": "holidays_02",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_02.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_02-85x96.png"
+      },
+      {
+        "id": "holidays_03",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_03.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_03-88x96.png"
+      },
+      {
+        "id": "holidays_04",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_04.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_04-72x96.png"
+      },
+      {
+        "id": "holidays_05",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_05.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_05-96x96.png"
+      },
+      {
+        "id": "holidays_06",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_06.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_06-78x96.png"
+      },
+      {
+        "id": "holidays_07",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_07.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_07-81x96.png"
+      },
+      {
+        "id": "holidays_08",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_08.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_08-79x96.png"
+      },
+      {
+        "id": "holidays_09",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_09.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_09-77x96.png"
+      },
+      {
+        "id": "holidays_10",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_10.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_10-96x89.png"
+      },
+      {
+        "id": "holidays_11",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_11.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_11-67x96.png"
+      },
+      {
+        "id": "holidays_12",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_12.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_12-96x93.png"
+      }
+    ]
+  }
+]

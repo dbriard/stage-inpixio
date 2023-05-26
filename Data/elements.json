@@ -32,7 +32,10 @@
       {
         "id": "shape_01",
         "type": "rectangle",
-        "tags": "square, rectangle",
+        "tags": [
+          "square",
+          "rectangle"
+        ],
         "previewURL": "https://dbriard.github.io/stage-inpixio/assets/shapes/shape_01-160x160.png",
         "previewWidth": 160,
         "previewHeight": 160
@@ -40,7 +43,10 @@
       {
         "id": "shape_02",
         "type": "ellipse",
-        "tags": "circle, ellipse",
+        "tags": [
+          "circle",
+          "ellipse"
+        ],
         "previewURL": "https://dbriard.github.io/stage-inpixio/assets/shapes/shape_02-160x160.png",
         "previewWidth": 160,
         "previewHeight": 160
@@ -48,7 +54,9 @@
       {
         "id": "shape_03",
         "type": "path",
-        "tags": "heart",
+        "tags": [
+          "heart"
+        ],
         "previewURL": "https://dbriard.github.io/stage-inpixio/assets/shapes/shape_03-160x160.png",
         "previewWidth": 160,
         "previewHeight": 160,
@@ -57,7 +65,9 @@
       {
         "id": "shape_04",
         "type": "path",
-        "tags": "triangle",
+        "tags": [
+          "triangle"
+        ],
         "previewURL": "https://dbriard.github.io/stage-inpixio/assets/shapes/shape_04-160x160.png",
         "previewWidth": 160,
         "previewHeight": 160,
@@ -66,7 +76,9 @@
       {
         "id": "shape_05",
         "type": "path",
-        "tags": "star",
+        "tags": [
+          "star"
+        ],
         "previewURL": "https://dbriard.github.io/stage-inpixio/assets/shapes/shape_05-160x160.png",
         "previewWidth": 160,
         "previewHeight": 160,
@@ -115,7 +127,9 @@
       {
         "id": "shape_11",
         "type": "path",
-        "tags": "arrow",
+        "tags": [
+          "arrow"
+        ],
         "previewURL": "https://dbriard.github.io/stage-inpixio/assets/shapes/shape_11-160x160.png",
         "previewWidth": 160,
         "previewHeight": 160,
@@ -124,7 +138,9 @@
       {
         "id": "shape_12",
         "type": "path",
-        "tags": "arrow",
+        "tags": [
+          "arrow"
+        ],
         "previewURL": "https://dbriard.github.io/stage-inpixio/assets/shapes/shape_12-160x160.png",
         "previewWidth": 160,
         "previewHeight": 160,
@@ -132,144 +148,394 @@
       }
     ]
   },
-{
-  "ElementType": "Texture",
-  "Title": "Textures",
-  "Translations": [
-    {
-      "Language": "fr",
-      "Title": "Textures "
-    }
-  ],
-  "Layout": {
-    "LayoutType": "UniformGridLayout",
-    "MinColumnSpacing": 8,
-    "MinItemHeight": 96,
-    "MinItemWidth": 96,
-    "MinRowSpacing": 8,
-    "MaximumRowsOrColumns": 1,
-    "Orientation": 1
+  {
+    "Title": "Seasons",
+    "ElementType": "Svg",
+    "Translations": [
+      {
+        "Language": "fr",
+        "Title": "Saisons "
+      }
+    ],
+    "Layout": {
+      "LayoutType": "UniformGridLayout",
+      "MinColumnSpacing": 8,
+      "MinItemHeight": 96,
+      "MinItemWidth": 96,
+      "MinRowSpacing": 8,
+      "MaximumRowsOrColumns": 1,
+      "Orientation": 1
+    },
+    "ExpandedLayout": {
+      "LayoutType": "UniformGridLayout",
+      "MinColumnSpacing": 8,
+      "MinItemHeight": 96,
+      "MinItemWidth": 96,
+      "MinRowSpacing": 8,
+      "MaximumRowsOrColumns": 1,
+      "Orientation": 1
+    },
+    "Count": 12,
+    "Total": 12,
+    "Results": [
+      {
+        "id": "season_01",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_01.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_01-90x96.png",
+        "previewWidth": 90,
+        "previewHeight": 96
+      },
+      {
+        "id": "season_02",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_02.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_02-88x96.png",
+        "previewWidth": 88,
+        "previewHeight": 96
+      },
+      {
+        "id": "season_03",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_03.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_03-89x96.png",
+        "previewWidth": 89,
+        "previewHeight": 96
+      },
+      {
+        "id": "season_04",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_04.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_04-62x96.png",
+        "previewWidth": 62,
+        "previewHeight": 96
+      },
+      {
+        "id": "season_05",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_05.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_05-64x96.png",
+        "previewWidth": 64,
+        "previewHeight": 96
+      },
+      {
+        "id": "season_06",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_06.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_06-94x96.png",
+        "previewWidth": 94,
+        "previewHeight": 96
+      },
+      {
+        "id": "season_07",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_07.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_07-61x96.png",
+        "previewWidth": 61,
+        "previewHeight": 96
+      },
+      {
+        "id": "season_08",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_08.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_08-79x96.png",
+        "previewWidth": 79,
+        "previewHeight": 96
+      },
+      {
+        "id": "season_09",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_09.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_09-69x96.png",
+        "previewWidth": 69,
+        "previewHeight": 96
+      },
+      {
+        "id": "season_10",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_10.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_10-96x96.png",
+        "previewWidth": 96,
+        "previewHeight": 96
+      },
+      {
+        "id": "season_11",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_11.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_11-72x96.png",
+        "previewWidth": 72,
+        "previewHeight": 96
+      },
+      {
+        "id": "season_12",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_12.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_12-88x96.png",
+        "previewWidth": 88,
+        "previewHeight": 96
+      }
+    ]
   },
-  "ExpandedLayout": {
-    "LayoutType": "UniformGridLayout",
-    "MinColumnSpacing": 8,
-    "MinItemHeight": 96,
-    "MinItemWidth": 96,
-    "MinRowSpacing": 8,
-    "MaximumRowsOrColumns": 1,
-    "Orientation": 1
+  {
+    "Title": "Holidays",
+    "ElementType": "Svg",
+    "Translations": [
+      {
+        "Language": "fr",
+        "Title": "Vacances"
+      }
+    ],
+    "Layout": {
+      "LayoutType": "UniformGridLayout",
+      "MinColumnSpacing": 8,
+      "MinItemHeight": 96,
+      "MinItemWidth": 96,
+      "MinRowSpacing": 8,
+      "MaximumRowsOrColumns": 1,
+      "Orientation": 1
+    },
+    "ExpandedLayout": {
+      "LayoutType": "UniformGridLayout",
+      "MinColumnSpacing": 8,
+      "MinItemHeight": 96,
+      "MinItemWidth": 96,
+      "MinRowSpacing": 8,
+      "MaximumRowsOrColumns": 1,
+      "Orientation": 1
+    },
+    "Count": 12,
+    "Total": 16,
+    "Results": [
+      {
+        "id": "holidays_01",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_01.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_01-74x96.png"
+      },
+      {
+        "id": "holidays_02",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_02.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_02-85x96.png"
+      },
+      {
+        "id": "holidays_03",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_03.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_03-88x96.png"
+      },
+      {
+        "id": "holidays_04",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_04.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_04-72x96.png"
+      },
+      {
+        "id": "holidays_05",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_05.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_05-96x96.png"
+      },
+      {
+        "id": "holidays_06",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_06.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_06-78x96.png"
+      },
+      {
+        "id": "holidays_07",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_07.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_07-81x96.png"
+      },
+      {
+        "id": "holidays_08",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_08.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_08-79x96.png"
+      },
+      {
+        "id": "holidays_09",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_09.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_09-77x96.png"
+      },
+      {
+        "id": "holidays_10",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_10.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_10-96x89.png"
+      },
+      {
+        "id": "holidays_11",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_11.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_11-67x96.png"
+      },
+      {
+        "id": "holidays_12",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_12.svg",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_12-96x93.png"
+      }
+    ]
   },
-  "Count": 12,
-  "Total": 12,
-  "Results": [
-    {
-      "Id": "light_leak_01",
-      "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_01-96x96.jpg",
-      "PreviewWidth": 160,
-      "PreviewHeight": 160,
-      "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_01.jpg",
-      "ImageWidth": 2048,
-      "ImageHeight": 2048
+  {
+    "ElementType": "Texture",
+    "Title": "Textures",
+    "Translations": [
+      {
+        "Language": "fr",
+        "Title": "Textures "
+      }
+    ],
+    "Layout": {
+      "LayoutType": "UniformGridLayout",
+      "MinColumnSpacing": 8,
+      "MinItemHeight": 96,
+      "MinItemWidth": 96,
+      "MinRowSpacing": 8,
+      "MaximumRowsOrColumns": 1,
+      "Orientation": 1
     },
-    {
-      "Id": "light_leak_02",
-      "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_02-96x96.jpg",
-      "PreviewWidth": 160,
-      "PreviewHeight": 160,
-      "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_02.jpg",
-      "ImageWidth": 2048,
-      "ImageHeight": 2048
+    "ExpandedLayout": {
+      "LayoutType": "UniformGridLayout",
+      "MinColumnSpacing": 8,
+      "MinItemHeight": 96,
+      "MinItemWidth": 96,
+      "MinRowSpacing": 8,
+      "MaximumRowsOrColumns": 1,
+      "Orientation": 1
     },
-    {
-      "Id": "light_leak_03",
-      "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_03-96x96.jpg",
-      "PreviewWidth": 160,
-      "PreviewHeight": 160,
-      "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_03.jpg",
-      "ImageWidth": 2048,
-      "ImageHeight": 2048
+    "Count": 12,
+    "Total": 12,
+    "Results": [
+      {
+        "Id": "light_leak_01",
+        "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_01-96x96.jpg",
+        "PreviewWidth": 160,
+        "PreviewHeight": 160,
+        "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_01.jpg",
+        "ImageWidth": 2048,
+        "ImageHeight": 2048
+      },
+      {
+        "Id": "light_leak_02",
+        "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_02-96x96.jpg",
+        "PreviewWidth": 160,
+        "PreviewHeight": 160,
+        "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_02.jpg",
+        "ImageWidth": 2048,
+        "ImageHeight": 2048
+      },
+      {
+        "Id": "light_leak_03",
+        "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_03-96x96.jpg",
+        "PreviewWidth": 160,
+        "PreviewHeight": 160,
+        "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_03.jpg",
+        "ImageWidth": 2048,
+        "ImageHeight": 2048
+      },
+      {
+        "Id": "light_leak_04",
+        "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_04-96x96.jpg",
+        "PreviewWidth": 160,
+        "PreviewHeight": 160,
+        "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_04.jpg",
+        "ImageWidth": 2048,
+        "ImageHeight": 2048
+      },
+      {
+        "Id": "light_leak_05",
+        "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_05-96x96.jpg",
+        "PreviewWidth": 160,
+        "PreviewHeight": 160,
+        "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_05.jpg",
+        "ImageWidth": 2048,
+        "ImageHeight": 2048
+      },
+      {
+        "Id": "light_leak_06",
+        "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_06-96x96.jpg",
+        "PreviewWidth": 160,
+        "PreviewHeight": 160,
+        "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_06.jpg",
+        "ImageWidth": 1500,
+        "ImageHeight": 1500
+      },
+      {
+        "Id": "light_leak_07",
+        "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_07-96x96.jpg",
+        "PreviewWidth": 160,
+        "PreviewHeight": 160,
+        "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_07.jpg",
+        "ImageWidth": 2048,
+        "ImageHeight": 2048
+      },
+      {
+        "Id": "light_leak_08",
+        "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_08-96x96.jpg",
+        "PreviewWidth": 160,
+        "PreviewHeight": 160,
+        "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_08.jpg",
+        "ImageWidth": 2048,
+        "ImageHeight": 2048
+      },
+      {
+        "Id": "light_leak_09",
+        "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_09-96x96.jpg",
+        "PreviewWidth": 160,
+        "PreviewHeight": 160,
+        "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_09.jpg",
+        "ImageWidth": 2048,
+        "ImageHeight": 2048
+      },
+      {
+        "Id": "light_leak_10",
+        "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_10-96x96.jpg",
+        "PreviewWidth": 160,
+        "PreviewHeight": 160,
+        "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_10.jpg",
+        "ImageWidth": 2048,
+        "ImageHeight": 2048
+      },
+      {
+        "Id": "light_leak_11",
+        "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_11-96x96.jpg",
+        "PreviewWidth": 160,
+        "PreviewHeight": 160,
+        "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_11.jpg",
+        "ImageWidth": 2048,
+        "ImageHeight": 2048
+      },
+      {
+        "Id": "light_leak_12",
+        "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_12-96x96.jpg",
+        "PreviewWidth": 160,
+        "PreviewHeight": 160,
+        "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_12.jpg",
+        "ImageWidth": 2048,
+        "ImageHeight": 2048
+      }
+    ]
+  },
+  {
+    "Title": "Folder",
+    "ElementType": "Folder",
+    "Translations": [
+      {
+        "Language": "fr",
+        "Title": "Dossier"
+      }
+    ],
+    "Layout": {
+      "LayoutType": "UniformGridLayout",
+      "MinColumnSpacing": 8,
+      "MinItemHeight": 148,
+      "MinItemWidth": 96,
+      "MinRowSpacing": 8,
+      "MaximumRowsOrColumns": 1,
+      "Orientation": 1
     },
-    {
-      "Id": "light_leak_04",
-      "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_04-96x96.jpg",
-      "PreviewWidth": 160,
-      "PreviewHeight": 160,
-      "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_04.jpg",
-      "ImageWidth": 2048,
-      "ImageHeight": 2048
+    "ExpandedLayout": {
+      "LayoutType": "UniformGridLayout",
+      "MinColumnSpacing": 8,
+      "MinItemHeight": 96,
+      "MinItemWidth": 96,
+      "MinRowSpacing": 8,
+      "MaximumRowsOrColumns": 1,
+      "Orientation": 1
     },
-    {
-      "Id": "light_leak_05",
-      "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_05-96x96.jpg",
-      "PreviewWidth": 160,
-      "PreviewHeight": 160,
-      "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_05.jpg",
-      "ImageWidth": 2048,
-      "ImageHeight": 2048
-    },
-    {
-      "Id": "light_leak_06",
-      "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_06-96x96.jpg",
-      "PreviewWidth": 160,
-      "PreviewHeight": 160,
-      "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_06.jpg",
-      "ImageWidth": 1500,
-      "ImageHeight": 1500
-    },
-    {
-      "Id": "light_leak_07",
-      "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_07-96x96.jpg",
-      "PreviewWidth": 160,
-      "PreviewHeight": 160,
-      "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_07.jpg",
-      "ImageWidth": 2048,
-      "ImageHeight": 2048
-    },
-    {
-      "Id": "light_leak_08",
-      "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_08-96x96.jpg",
-      "PreviewWidth": 160,
-      "PreviewHeight": 160,
-      "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_08.jpg",
-      "ImageWidth": 2048,
-      "ImageHeight": 2048
-    },
-    {
-      "Id": "light_leak_09",
-      "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_09-96x96.jpg",
-      "PreviewWidth": 160,
-      "PreviewHeight": 160,
-      "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_09.jpg",
-      "ImageWidth": 2048,
-      "ImageHeight": 2048
-    },
-    {
-      "Id": "light_leak_10",
-      "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_10-96x96.jpg",
-      "PreviewWidth": 160,
-      "PreviewHeight": 160,
-      "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_10.jpg",
-      "ImageWidth": 2048,
-      "ImageHeight": 2048
-    },
-    {
-      "Id": "light_leak_11",
-      "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_11-96x96.jpg",
-      "PreviewWidth": 160,
-      "PreviewHeight": 160,
-      "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_11.jpg",
-      "ImageWidth": 2048,
-      "ImageHeight": 2048
-    },
-    {
-      "Id": "light_leak_12",
-      "PreviewURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_12-96x96.jpg",
-      "PreviewWidth": 160,
-      "PreviewHeight": 160,
-      "ImageURL": "https://dbriard.github.io/stage-inpixio/assets/textures/light_leak_12.jpg",
-      "ImageWidth": 2048,
-      "ImageHeight": 2048
-    }
-  ]
-}
+    "Count": 2,
+    "Total": 2,
+    "Results": [
+      {
+        "id": "seasons",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/Data/seasons.json",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/season_01-90x96.png"
+      },
+      {
+        "id": "holidays",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/Data/holidays.json",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vector/holidays_01-74x96.png"
+      }
+    ]
+  }
 ]
