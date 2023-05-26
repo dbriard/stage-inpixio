@@ -157,14 +157,14 @@
         "Title": "Saisons "
       }
     ],
-    "PopularLayout": {
+    "Layout": {
       "LayoutId": "UniformGridLayout",
       "MinItemHeight": 96,
       "MinItemWidth": 96,
       "MaximumRowsOrColumns": 1,
       "Orientation": 1
     },
-    "Layout": {
+    "PopularLayout": {
       "LayoutId": "UniformGridLayout",
       "MinItemWidth": 96,
       "MinItemHeight": 96,
@@ -269,7 +269,7 @@
         "Title": "Vacances"
       }
     ],
-    "PopularLayout": {
+    "Layout": {
       "LayoutId": "UniformGridLayout",
       "MinColumnSpacing": 8,
       "MinItemHeight": 96,
@@ -278,7 +278,7 @@
       "MaximumRowsOrColumns": 1,
       "Orientation": 1
     },
-    "Layout": {
+    "PopularLayout": {
       "LayoutId": "UniformGridLayout",
       "MinItemWidth": 96,
       "MinItemHeight": 96,
@@ -359,7 +359,7 @@
         "Title": "Textures "
       }
     ],
-    "PopularLayout": {
+    "Layout": {
       "LayoutId": "UniformGridLayout",
       "MinColumnSpacing": 8,
       "MinItemHeight": 96,
@@ -368,7 +368,7 @@
       "MaximumRowsOrColumns": 1,
       "Orientation": 1
     },
-    "Layout": {
+    "PopularLayout": {
       "LayoutId": "UniformGridLayout",
       "MinItemWidth": 96,
       "MinItemHeight": 96,
