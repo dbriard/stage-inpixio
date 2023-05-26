@@ -157,23 +157,19 @@
         "Title": "Saisons "
       }
     ],
-    "Layout": {
+    "PopularLayout": {
       "LayoutId": "UniformGridLayout",
-      "MinColumnSpacing": 8,
       "MinItemHeight": 96,
       "MinItemWidth": 96,
-      "MinRowSpacing": 8,
       "MaximumRowsOrColumns": 1,
       "Orientation": 1
     },
-    "PopularLayout": {
+    "Layout": {
       "LayoutId": "UniformGridLayout",
-      "MinColumnSpacing": 8,
-      "MinItemHeight": 96,
       "MinItemWidth": 96,
-      "MinRowSpacing": 8,
-      "MaximumRowsOrColumns": 1,
-      "Orientation": 1
+      "MinItemHeight": 96,
+      "MaximumRowsOrColumns": 3,
+      "Orientation": 0
     },
     "Count": 12,
     "Total": 12,
@@ -273,15 +269,6 @@
         "Title": "Vacances"
       }
     ],
-    "Layout": {
-      "LayoutId": "UniformGridLayout",
-      "MinColumnSpacing": 8,
-      "MinItemHeight": 96,
-      "MinItemWidth": 96,
-      "MinRowSpacing": 8,
-      "MaximumRowsOrColumns": 1,
-      "Orientation": 1
-    },
     "PopularLayout": {
       "LayoutId": "UniformGridLayout",
       "MinColumnSpacing": 8,
@@ -290,6 +277,13 @@
       "MinRowSpacing": 8,
       "MaximumRowsOrColumns": 1,
       "Orientation": 1
+    },
+    "Layout": {
+      "LayoutId": "UniformGridLayout",
+      "MinItemWidth": 96,
+      "MinItemHeight": 96,
+      "MaximumRowsOrColumns": 3,
+      "Orientation": 0
     },
     "Count": 12,
     "Total": 16,
@@ -365,15 +359,6 @@
         "Title": "Textures "
       }
     ],
-    "Layout": {
-      "LayoutId": "UniformGridLayout",
-      "MinColumnSpacing": 8,
-      "MinItemHeight": 96,
-      "MinItemWidth": 96,
-      "MinRowSpacing": 8,
-      "MaximumRowsOrColumns": 1,
-      "Orientation": 1
-    },
     "PopularLayout": {
       "LayoutId": "UniformGridLayout",
       "MinColumnSpacing": 8,
@@ -382,6 +367,13 @@
       "MinRowSpacing": 8,
       "MaximumRowsOrColumns": 1,
       "Orientation": 1
+    },
+    "Layout": {
+      "LayoutId": "UniformGridLayout",
+      "MinItemWidth": 96,
+      "MinItemHeight": 96,
+      "MaximumRowsOrColumns": 3,
+      "Orientation": 0
     },
     "Count": 12,
     "Total": 12,
@@ -505,23 +497,19 @@
         "Title": "Dossier"
       }
     ],
-    "Layout": {
+    "PopularLayout": {
       "LayoutId": "UniformGridLayout",
-      "MinColumnSpacing": 8,
       "MinItemWidth": 148,
       "MinItemHeight": 96,
-      "MinRowSpacing": 8,
       "MaximumRowsOrColumns": 1,
       "Orientation": 1
     },
-    "PopularLayout": {
+    "Layout": {
       "LayoutId": "UniformGridLayout",
-      "MinColumnSpacing": 8,
-      "MinItemHeight": 96,
       "MinItemWidth": 96,
-      "MinRowSpacing": 8,
-      "MaximumRowsOrColumns": 1,
-      "Orientation": 1
+      "MinItemHeight": 96,
+      "MaximumRowsOrColumns": 3,
+      "Orientation": 0
     },
     "Count": 2,
     "Total": 2,
