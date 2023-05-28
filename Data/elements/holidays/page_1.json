@@ -1,0 +1,166 @@
+{
+  "Title": "Holidays",
+  "ElementType": "Svg",
+  "Translations": [
+    {
+      "Language": "fr",
+      "Title": "Vacances"
+    }
+  ],
+  "Total": 16,
+  "PerPage": 25,
+  "Results": [
+    {
+      "Id": "holidays_01",
+      "Url": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_01.svg",
+      "Width": 774,
+      "Height": 1000,
+      "FileSize": 8137,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_01-120x148.png",
+      "Color": "#65746879"
+    },
+    {
+      "Id": "holidays_02",
+      "Url": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_02.svg",
+      "Width": 897,
+      "Height": 1000,
+      "FileSize": 8629,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_02-136x148.png",
+      "Color": "#43987e94"
+    },
+    {
+      "Id": "holidays_03",
+      "Url": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_03.svg",
+      "Width": 929,
+      "Height": 1000,
+      "FileSize": 21348,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_03-140x148.png",
+      "Color": "#4a726b7c"
+    },
+    {
+      "Id": "holidays_04",
+      "Url": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_04.svg",
+      "Width": 751,
+      "Height": 1000,
+      "FileSize": 11992,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_04-118x148.png",
+      "Color": "#677e798d"
+    },
+    {
+      "Id": "holidays_05",
+      "Url": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_05.svg",
+      "Width": 1000,
+      "Height": 895,
+      "FileSize": 23894,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_05-148x136.png",
+      "Color": "#51816274"
+    },
+    {
+      "Id": "holidays_06",
+      "Url": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_06.svg",
+      "Width": 816,
+      "Height": 1000,
+      "FileSize": 16382,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_06-125x148.png",
+      "Color": "#7789859a"
+    },
+    {
+      "Id": "holidays_07",
+      "Url": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_07.svg",
+      "Width": 846,
+      "Height": 1000,
+      "FileSize": 9651,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_07-129x148.png",
+      "Color": "#53786578"
+    },
+    {
+      "Id": "holidays_08",
+      "Url": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_08.svg",
+      "Width": 829,
+      "Height": 1000,
+      "FileSize": 8400,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_08-126x148.png",
+      "Color": "#60806a7d"
+    },
+    {
+      "Id": "holidays_09",
+      "Url": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_09.svg",
+      "Width": 805,
+      "Height": 1000,
+      "FileSize": 11523,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_09-125x148.png",
+      "Color": "#5e9d8295"
+    },
+    {
+      "Id": "holidays_10",
+      "Url": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_10.svg",
+      "Width": 1000,
+      "Height": 934,
+      "FileSize": 9493,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_10-148x139.png",
+      "Color": "#49cb8fa1"
+    },
+    {
+      "Id": "holidays_11",
+      "Url": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_11.svg",
+      "Width": 696,
+      "Height": 1000,
+      "FileSize": 100455,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_11-111x148.png",
+      "Color": "#47886c7e"
+    },
+    {
+      "Id": "holidays_12",
+      "Url": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_12.svg",
+      "Width": 1000,
+      "Height": 973,
+      "FileSize": 15153,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_12-148x145.png",
+      "Color": "#3ae595a7"
+    },
+    {
+      "Id": "holidays_13",
+      "Url": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_13.svg",
+      "Width": 1000,
+      "Height": 987,
+      "FileSize": 12062,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_13-148x146.png",
+      "Color": "#51a7788b"
+    },
+    {
+      "Id": "holidays_14",
+      "Url": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_14.svg",
+      "Width": 797,
+      "Height": 1000,
+      "FileSize": 11645,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_14-124x148.png",
+      "Color": "#5a9f8ea1"
+    },
+    {
+      "Id": "holidays_15",
+      "Url": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_15.svg",
+      "Width": 677,
+      "Height": 1000,
+      "FileSize": 23457,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_15-108x148.png",
+      "Color": "#3ba4798a"
+    },
+    {
+      "Id": "holidays_16",
+      "Url": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_16.svg",
+      "Width": 931,
+      "Height": 1000,
+      "FileSize": 13080,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/data/elements/holidays/holidays_16-139x148.png",
+      "Color": "#42c99bb6"
+    }
+  ],
+  "Layout": {
+    "LayoutId": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MaximumRowsOrColumns": 3,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96
+  },
+  "Featured": 12
+}
