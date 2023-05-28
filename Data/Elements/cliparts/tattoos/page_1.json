@@ -1,0 +1,103 @@
+{
+  "Title": "Tattoos",
+  "ElementType": "Svg",
+  "Total": 16,
+  "PerPage": 25,
+  "Results": [
+    {
+      "Id": "tattoo_01",
+      "Url": "https://dbriard.github.io/stage-inpixio/assets/elements/cliparts/tattoos/tattoo_01.svg",
+      "Width": 1000,
+      "Height": 344,
+      "FileSize": 2546,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/assets/elements/cliparts/tattoos/tattoo_01-148x67.png",
+      "Color": "#1dffffff"
+    },
+    {
+      "Id": "tattoo_02",
+      "Url": "https://dbriard.github.io/stage-inpixio/assets/elements/cliparts/tattoos/tattoo_02.svg",
+      "Width": 1000,
+      "Height": 992,
+      "FileSize": 11679,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/assets/elements/cliparts/tattoos/tattoo_02-148x147.png",
+      "Color": "#63ffffff"
+    },
+    {
+      "Id": "tattoo_03",
+      "Url": "https://dbriard.github.io/stage-inpixio/assets/elements/cliparts/tattoos/tattoo_03.svg",
+      "Width": 1000,
+      "Height": 653,
+      "FileSize": 3768,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/assets/elements/cliparts/tattoos/tattoo_03-148x104.png",
+      "Color": "#38ffffff"
+    },
+    {
+      "Id": "tattoo_04",
+      "Url": "https://dbriard.github.io/stage-inpixio/assets/elements/cliparts/tattoos/tattoo_04.svg",
+      "Width": 472,
+      "Height": 1000,
+      "FileSize": 3165,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/assets/elements/cliparts/tattoos/tattoo_04-83x148.png",
+      "Color": "#43ffffff"
+    },
+    {
+      "Id": "tattoo_05",
+      "Url": "https://dbriard.github.io/stage-inpixio/assets/elements/cliparts/tattoos/tattoo_05.svg",
+      "Width": 897,
+      "Height": 1000,
+      "FileSize": 6762,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/assets/elements/cliparts/tattoos/tattoo_05-136x148.png",
+      "Color": "#20ffffff"
+    },
+    {
+      "Id": "tattoo_06",
+      "Url": "https://dbriard.github.io/stage-inpixio/assets/elements/cliparts/tattoos/tattoo_06.svg",
+      "Width": 1000,
+      "Height": 140,
+      "FileSize": 2809,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/assets/elements/cliparts/tattoos/tattoo_06-148x42.png",
+      "Color": "#26ffffff"
+    },
+    {
+      "Id": "tattoo_07",
+      "Url": "https://dbriard.github.io/stage-inpixio/assets/elements/cliparts/tattoos/tattoo_07.svg",
+      "Width": 1000,
+      "Height": 269,
+      "FileSize": 3366,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/assets/elements/cliparts/tattoos/tattoo_07-148x58.png",
+      "Color": "#27ffffff"
+    },
+    {
+      "Id": "tattoo_08",
+      "Url": "https://dbriard.github.io/stage-inpixio/assets/elements/cliparts/tattoos/tattoo_08.svg",
+      "Width": 403,
+      "Height": 1000,
+      "FileSize": 3933,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/assets/elements/cliparts/tattoos/tattoo_08-75x148.png",
+      "Color": "#3dffffff"
+    },
+    {
+      "Id": "tattoo_09",
+      "Url": "https://dbriard.github.io/stage-inpixio/assets/elements/cliparts/tattoos/tattoo_09.svg",
+      "Width": 705,
+      "Height": 1000,
+      "FileSize": 5515,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/assets/elements/cliparts/tattoos/tattoo_09-112x148.png",
+      "Color": "#4fffffff"
+    }
+  ],
+  "Layout": {
+    "LayoutId": "UniformGridLayout",
+    "Orientation": "Vertical",
+    "MaximumRowsOrColumns": 1,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96
+  },
+  "PageLayout": {
+    "LayoutId": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MaximumRowsOrColumns": 3,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96
+  }
+}
