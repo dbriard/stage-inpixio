@@ -7,6 +7,7 @@ const code = queryParams.code;
 if (code) {
     window.localStorage.setItem("inpixio-online_auth-code", code);
     window.close();
+    document.getElementsByTagName("body")[0].innerHTML = "Thank You!";
 }
 
 if (queryParams.logout) {
