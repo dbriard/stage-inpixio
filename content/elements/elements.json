@@ -435,61 +435,61 @@
         "Id": "Balloons",
         "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/balloons/page_1.json",
         "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/balloons/thumbnail-148x148..png",
-        "Color": "#6bf3f5f5"
+        "Color": "#fff8f8f8"
       },
       {
         "Id": "Banners",
         "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/page_1.json",
         "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/thumbnail-148x148..png",
-        "Color": "#2789969d"
+        "Color": "#ffebeeee"
       },
       {
         "Id": "Birthday",
         "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/birthday/page_1.json",
         "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/birthday/thumbnail-148x148..png",
-        "Color": "#39bc98a6"
+        "Color": "#ffede5e8"
       },
       {
         "Id": "Frames",
         "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/frames/page_1.json",
         "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/frames/thumbnail-148x148..png",
-        "Color": "#69c57086"
+        "Color": "#ffe4c2cb"
       },
       {
         "Id": "Holidays",
         "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/holidays/page_1.json",
         "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/holidays/thumbnail-148x148..png",
-        "Color": "#3f827182"
+        "Color": "#ffded9de"
       },
       {
         "Id": "Lines",
         "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/page_1.json",
         "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/thumbnail-148x148..png",
-        "Color": "#00000000"
+        "Color": "#ffffffff"
       },
       {
         "Id": "Romantic",
         "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/romantic/page_1.json",
         "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/romantic/thumbnail-148x148..png",
-        "Color": "#71c28c9c"
+        "Color": "#ffe2cad1"
       },
       {
         "Id": "Seasons",
         "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/seasons/page_1.json",
         "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/seasons/thumbnail-148x148..png",
-        "Color": "#39a68698"
+        "Color": "#ffe9e1e5"
       },
       {
         "Id": "Sports",
         "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/page_1.json",
         "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/thumbnail-148x148..png",
-        "Color": "#38ada4bb"
+        "Color": "#ffebe9ee"
       },
       {
         "Id": "Tattoos",
         "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/tattoos/page_1.json",
         "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/tattoos/thumbnail-148x148..png",
-        "Color": "#1effffff"
+        "Color": "#ffffffff"
       }
     ],
     "Layout": {
@@ -522,50 +522,50 @@
       {
         "Id": "10_Light Leak",
         "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/page_1.json",
-        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/thumbnail-148x148..jpg",
-        "Color": "#ff723e42"
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/thumbnail-148x98..jpg",
+        "Color": "#ff653342"
       },
       {
         "Id": "20_Grain",
         "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/grain/page_1.json",
-        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/grain/thumbnail-148x148..jpg",
-        "Color": "#6b343434"
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/grain/thumbnail-148x98..jpg",
+        "Color": "#ffa8a8a8"
       },
       {
         "Id": "30_Film",
         "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/page_1.json",
-        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/thumbnail-148x148..jpg",
-        "Color": "#e6b6b7ab"
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/thumbnail-148x98..jpg",
+        "Color": "#ffbac0b2"
       },
       {
         "Id": "40_Bokeh",
         "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/bokeh/page_1.json",
-        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/bokeh/thumbnail-148x148..jpg",
-        "Color": "#6b110409"
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/bokeh/thumbnail-148x98..jpg",
+        "Color": "#ff746066"
       },
       {
         "Id": "50_Double Exposure",
         "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/page_1.json",
-        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/thumbnail-148x148..jpg",
-        "Color": "#6b313025"
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/thumbnail-148x98..jpg",
+        "Color": "#ffa6a492"
       },
       {
         "Id": "55_Geometric",
         "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/page_1.json",
-        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/thumbnail-148x148..jpg",
-        "Color": "#ff9b8f84"
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/thumbnail-148x98..jpg",
+        "Color": "#ff947f6b"
       },
       {
         "Id": "60_Material",
         "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/page_1.json",
-        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/thumbnail-148x148..jpg",
-        "Color": "#b06a655c"
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/thumbnail-148x98..jpg",
+        "Color": "#ff9b9385"
       },
       {
         "Id": "70_Space",
         "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/space/page_1.json",
-        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/space/thumbnail-148x148..jpg",
-        "Color": "#35060307"
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/space/thumbnail-148x98..jpg",
+        "Color": "#ffafabb1"
       }
     ],
     "Layout": {
@@ -573,14 +573,14 @@
       "Orientation": "Vertical",
       "MaximumRowsOrColumns": 1,
       "MinItemWidth": 148,
-      "MinItemHeight": 148
+      "MinItemHeight": 96
     },
     "PageLayout": {
       "LayoutId": "UniformGridLayout",
       "Orientation": "Horizontal",
       "MaximumRowsOrColumns": 2,
       "MinItemWidth": 148,
-      "MinItemHeight": 148
+      "MinItemHeight": 96
     }
   }
 ]
