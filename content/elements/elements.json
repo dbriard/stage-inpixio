@@ -8,7 +8,7 @@
         "Title": "Couleurs populaires"
       }
     ],
-    "Featured": 24,
+    "Featured": 3,
     "Total": 24,
     "PerPage": 25,
     "Results": [
@@ -133,6 +133,7 @@
         "Title": "Couleurs unies"
       }
     ],
+    "Featured": 24,
     "Total": 24,
     "PerPage": 25,
     "Results": [
