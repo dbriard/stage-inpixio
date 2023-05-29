@@ -1,5 +1,129 @@
 [
   {
+    "Title": "Popular Colors",
+    "ElementType": "Color",
+    "Translations": [
+      {
+        "Language": "fr",
+        "Title": "Couleurs populaires"
+      }
+    ],
+    "Total": 24,
+    "PerPage": 25,
+    "Results": [
+      {
+        "Id": "Transparent",
+        "Color": "#00ffffff"
+      },
+      {
+        "Id": "Black",
+        "Color": "#000000"
+      },
+      {
+        "Id": "White",
+        "Color": "#ffffff"
+      },
+      {
+        "Id": "d9d9d9",
+        "Color": "#d9d9d9"
+      },
+      {
+        "Id": "545454",
+        "Color": "#545454"
+      },
+      {
+        "Id": "737373",
+        "Color": "#737373"
+      },
+      {
+        "Id": "fa3130",
+        "Color": "#fa3130"
+      },
+      {
+        "Id": "fb5657",
+        "Color": "#fb5657"
+      },
+      {
+        "Id": "fc67c4",
+        "Color": "#fc67c4"
+      },
+      {
+        "Id": "cc6ce7",
+        "Color": "#cc6ce7"
+      },
+      {
+        "Id": "8c52ff",
+        "Color": "#8c52ff"
+      },
+      {
+        "Id": "5e18eb",
+        "Color": "#5e18eb"
+      },
+      {
+        "Id": "2597b2",
+        "Color": "#2597b2"
+      },
+      {
+        "Id": "31c1df",
+        "Color": "#31c1df"
+      },
+      {
+        "Id": "5de1e6",
+        "Color": "#5de1e6"
+      },
+      {
+        "Id": "3ab6fe",
+        "Color": "#3ab6fe"
+      },
+      {
+        "Id": "5371ff",
+        "Color": "#5371ff"
+      },
+      {
+        "Id": "224aad",
+        "Color": "#224aad"
+      },
+      {
+        "Id": "18bf62",
+        "Color": "#18bf62"
+      },
+      {
+        "Id": "7ed957",
+        "Color": "#7ed957"
+      },
+      {
+        "Id": "c1ff72",
+        "Color": "#c1ff72"
+      },
+      {
+        "Id": "fbde5a",
+        "Color": "#fbde5a"
+      },
+      {
+        "Id": "efc86d",
+        "Color": "#efc86d"
+      },
+      {
+        "Id": "eba25e",
+        "Color": "#eba25e"
+      }
+    ],
+    "Layout": {
+      "LayoutId": "UniformGridLayout",
+      "Orientation": "Vertical",
+      "MaximumRowsOrColumns": 1,
+      "MinItemWidth": 96,
+      "MinItemHeight": 96
+    },
+    "PageLayout": {
+      "LayoutId": "UniformGridLayout",
+      "Orientation": "Horizontal",
+      "MaximumRowsOrColumns": 6,
+      "MinItemWidth": 44,
+      "MinItemHeight": 44
+    }
+  },
+  {
     "Title": "Solid Colors",
     "ElementType": "Color",
     "Translations": [
@@ -110,10 +234,10 @@
     ],
     "Layout": {
       "LayoutId": "UniformGridLayout",
-      "Orientation": "Vertical",
-      "MaximumRowsOrColumns": 2,
-      "MinItemWidth": 70,
-      "MinItemHeight": 70
+      "Orientation": "Horizontal",
+      "MaximumRowsOrColumns": 6,
+      "MinItemWidth": 44,
+      "MinItemHeight": 44
     },
     "PageLayout": {
       "LayoutId": "UniformGridLayout",
