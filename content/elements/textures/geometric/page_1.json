@@ -1,0 +1,85 @@
+{
+  "Title": "55_Geometric",
+  "ElementType": "Image",
+  "Total": 22,
+  "PerPage": 25,
+  "Results": [
+    {
+      "Id": "texture_geometric_01",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_01.jpg",
+      "FileSize": 415396,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_01-148x148.jpg",
+      "Color": "#ffbfc18b"
+    },
+    {
+      "Id": "texture_geometric_02",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_02.jpg",
+      "FileSize": 385865,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_02-148x148.jpg",
+      "Color": "#ff727166"
+    },
+    {
+      "Id": "texture_geometric_03",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_03.jpg",
+      "FileSize": 389529,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_03-148x148.jpg",
+      "Color": "#ff734802"
+    },
+    {
+      "Id": "texture_geometric_04",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_04.jpg",
+      "FileSize": 383730,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_04-148x148.jpg",
+      "Color": "#ffb15352"
+    },
+    {
+      "Id": "texture_geometric_05",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_05.jpg",
+      "FileSize": 671840,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_05-148x148.jpg",
+      "Color": "#ff898788"
+    },
+    {
+      "Id": "texture_geometric_06",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_06.jpg",
+      "FileSize": 1297700,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_06-148x148.jpg",
+      "Color": "#ff959595"
+    },
+    {
+      "Id": "texture_geometric_07",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_07.jpg",
+      "FileSize": 269973,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_07-148x148.jpg",
+      "Color": "#fff2f1f1"
+    },
+    {
+      "Id": "texture_geometric_08",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_08.jpg",
+      "FileSize": 201011,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_08-148x148.jpg",
+      "Color": "#ff868685"
+    },
+    {
+      "Id": "texture_geometric_09",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_09.jpg",
+      "FileSize": 136259,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_09-148x148.jpg",
+      "Color": "#ffa2c0c9"
+    }
+  ],
+  "Layout": {
+    "LayoutId": "UniformGridLayout",
+    "Orientation": "Vertical",
+    "MaximumRowsOrColumns": 1,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96
+  },
+  "PageLayout": {
+    "LayoutId": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MaximumRowsOrColumns": 3,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96
+  }
+}

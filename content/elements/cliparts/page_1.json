@@ -1,13 +1,13 @@
 {
   "Title": "Cliparts",
-  "ElementType": "Svg",
+  "ElementType": "Folder",
   "Translations": [
     {
       "Language": "fr",
       "Title": "Cliparts"
     }
   ],
-  "Total": 11,
+  "Total": 10,
   "PerPage": 25,
   "Results": [
     {
@@ -59,12 +59,6 @@
       "Color": "#39a68698"
     },
     {
-      "Id": "Shapes",
-      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/shapes/page_1.json",
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/shapes/thumbnail-148x148..png",
-      "Color": "#63435a64"
-    },
-    {
       "Id": "Sports",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/page_1.json",
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/thumbnail-148x148..png",
@@ -80,9 +74,9 @@
   "Layout": {
     "LayoutId": "UniformGridLayout",
     "Orientation": "Horizontal",
-    "MaximumRowsOrColumns": 3,
-    "MinItemWidth": 96,
-    "MinItemHeight": 96
+    "MaximumRowsOrColumns": 2,
+    "MinItemWidth": 148,
+    "MinItemHeight": 148
   },
   "Featured": 12
 }

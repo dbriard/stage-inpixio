@@ -421,14 +421,14 @@
   },
   {
     "Title": "Cliparts",
-    "ElementType": "Svg",
+    "ElementType": "Folder",
     "Translations": [
       {
         "Language": "fr",
         "Title": "Cliparts"
       }
     ],
-    "Total": 11,
+    "Total": 10,
     "PerPage": 25,
     "Results": [
       {
@@ -480,12 +480,6 @@
         "Color": "#39a68698"
       },
       {
-        "Id": "Shapes",
-        "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/shapes/page_1.json",
-        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/shapes/thumbnail-148x148..png",
-        "Color": "#63435a64"
-      },
-      {
         "Id": "Sports",
         "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/page_1.json",
         "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/thumbnail-148x148..png",
@@ -508,9 +502,85 @@
     "PageLayout": {
       "LayoutId": "UniformGridLayout",
       "Orientation": "Horizontal",
-      "MaximumRowsOrColumns": 3,
-      "MinItemWidth": 96,
-      "MinItemHeight": 96
+      "MaximumRowsOrColumns": 2,
+      "MinItemWidth": 148,
+      "MinItemHeight": 148
+    }
+  },
+  {
+    "Title": "Textures",
+    "ElementType": "Folder",
+    "Translations": [
+      {
+        "Language": "fr",
+        "Title": "Textures"
+      }
+    ],
+    "Total": 8,
+    "PerPage": 25,
+    "Results": [
+      {
+        "Id": "10_Light Leak",
+        "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/page_1.json",
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/thumbnail-148x148..jpg",
+        "Color": "#ff723e42"
+      },
+      {
+        "Id": "20_Grain",
+        "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/grain/page_1.json",
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/grain/thumbnail-148x148..jpg",
+        "Color": "#6b343434"
+      },
+      {
+        "Id": "30_Film",
+        "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/page_1.json",
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/thumbnail-148x148..jpg",
+        "Color": "#e6b6b7ab"
+      },
+      {
+        "Id": "40_Bokeh",
+        "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/bokeh/page_1.json",
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/bokeh/thumbnail-148x148..jpg",
+        "Color": "#6b110409"
+      },
+      {
+        "Id": "50_Double Exposure",
+        "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/page_1.json",
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/thumbnail-148x148..jpg",
+        "Color": "#6b313025"
+      },
+      {
+        "Id": "55_Geometric",
+        "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/page_1.json",
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/thumbnail-148x148..jpg",
+        "Color": "#ff9b8f84"
+      },
+      {
+        "Id": "60_Material",
+        "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/page_1.json",
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/thumbnail-148x148..jpg",
+        "Color": "#b06a655c"
+      },
+      {
+        "Id": "70_Space",
+        "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/space/page_1.json",
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/space/thumbnail-148x148..jpg",
+        "Color": "#35060307"
+      }
+    ],
+    "Layout": {
+      "LayoutId": "UniformGridLayout",
+      "Orientation": "Vertical",
+      "MaximumRowsOrColumns": 1,
+      "MinItemWidth": 148,
+      "MinItemHeight": 148
+    },
+    "PageLayout": {
+      "LayoutId": "UniformGridLayout",
+      "Orientation": "Horizontal",
+      "MaximumRowsOrColumns": 2,
+      "MinItemWidth": 148,
+      "MinItemHeight": 148
     }
   }
 ]
