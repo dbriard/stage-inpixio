@@ -1,0 +1,50 @@
+{
+  "Title": "50_Double Exposure",
+  "ElementType": "Image",
+  "Total": 4,
+  "PerPage": 25,
+  "Results": [
+    {
+      "Id": "texture_doubleexposure_01",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/texture_doubleexposure_01.jpg",
+      "FileSize": 1104915,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/texture_doubleexposure_01-148x148.jpg",
+      "Color": "#ff9fa57d"
+    },
+    {
+      "Id": "texture_doubleexposure_02",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/texture_doubleexposure_02.jpg",
+      "FileSize": 1075269,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/texture_doubleexposure_02-148x148.jpg",
+      "Color": "#ff786f64"
+    },
+    {
+      "Id": "texture_doubleexposure_03",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/texture_doubleexposure_03.jpg",
+      "FileSize": 819200,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/texture_doubleexposure_03-148x148.jpg",
+      "Color": "#ff68655e"
+    },
+    {
+      "Id": "texture_doubleexposure_04",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/texture_doubleexposure_04.jpg",
+      "FileSize": 1348097,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/texture_doubleexposure_04-148x148.jpg",
+      "Color": "#ff63683c"
+    }
+  ],
+  "Layout": {
+    "LayoutId": "UniformGridLayout",
+    "Orientation": "Vertical",
+    "MaximumRowsOrColumns": 1,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96
+  },
+  "PageLayout": {
+    "LayoutId": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MaximumRowsOrColumns": 3,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96
+  }
+}

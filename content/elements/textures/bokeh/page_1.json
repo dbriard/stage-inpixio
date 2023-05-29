@@ -1,0 +1,50 @@
+{
+  "Title": "40_Bokeh",
+  "ElementType": "Image",
+  "Total": 4,
+  "PerPage": 25,
+  "Results": [
+    {
+      "Id": "texture_bokeh_01",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/bokeh/texture_bokeh_01.jpg",
+      "FileSize": 167769,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/bokeh/texture_bokeh_01-148x148.jpg",
+      "Color": "#ff280318"
+    },
+    {
+      "Id": "texture_bokeh_02",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/bokeh/texture_bokeh_02.jpg",
+      "FileSize": 191884,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/bokeh/texture_bokeh_02-148x148.jpg",
+      "Color": "#ff290d0f"
+    },
+    {
+      "Id": "texture_bokeh_03",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/bokeh/texture_bokeh_03.jpg",
+      "FileSize": 140238,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/bokeh/texture_bokeh_03-148x148.jpg",
+      "Color": "#ff681229"
+    },
+    {
+      "Id": "texture_bokeh_04",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/bokeh/texture_bokeh_04.jpg",
+      "FileSize": 156834,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/bokeh/texture_bokeh_04-148x148.jpg",
+      "Color": "#ff101010"
+    }
+  ],
+  "Layout": {
+    "LayoutId": "UniformGridLayout",
+    "Orientation": "Vertical",
+    "MaximumRowsOrColumns": 1,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96
+  },
+  "PageLayout": {
+    "LayoutId": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MaximumRowsOrColumns": 3,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96
+  }
+}

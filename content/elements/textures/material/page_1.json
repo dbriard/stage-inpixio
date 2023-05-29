@@ -1,0 +1,64 @@
+{
+  "Title": "60_Material",
+  "ElementType": "Image",
+  "Total": 6,
+  "PerPage": 25,
+  "Results": [
+    {
+      "Id": "texture_material_01",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_01.jpg",
+      "FileSize": 1848068,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_01-148x148.jpg",
+      "Color": "#ffc5c5c5"
+    },
+    {
+      "Id": "texture_material_02",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_02.jpg",
+      "FileSize": 224232,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_02-148x148.jpg",
+      "Color": "#ff9b7627"
+    },
+    {
+      "Id": "texture_material_03",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_03.jpg",
+      "FileSize": 481163,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_03-148x148.jpg",
+      "Color": "#ffabadb1"
+    },
+    {
+      "Id": "texture_material_04",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_04.jpg",
+      "FileSize": 426675,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_04-148x148.jpg",
+      "Color": "#ff8e8b88"
+    },
+    {
+      "Id": "texture_material_05",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_05.jpg",
+      "FileSize": 516994,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_05-148x148.jpg",
+      "Color": "#ff9d9c9b"
+    },
+    {
+      "Id": "texture_material_06",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_06.jpg",
+      "FileSize": 349867,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_06-148x148.jpg",
+      "Color": "#ff767676"
+    }
+  ],
+  "Layout": {
+    "LayoutId": "UniformGridLayout",
+    "Orientation": "Vertical",
+    "MaximumRowsOrColumns": 1,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96
+  },
+  "PageLayout": {
+    "LayoutId": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MaximumRowsOrColumns": 3,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Title": "70_Space",
+  "ElementType": "Image",
+  "Total": 2,
+  "PerPage": 25,
+  "Results": [
+    {
+      "Id": "texture_space_01",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/space/texture_space_01.jpg",
+      "FileSize": 529653,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/space/texture_space_01-148x148.jpg",
+      "Color": "#ff1d122c"
+    },
+    {
+      "Id": "texture_space_02",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/space/texture_space_02.jpg",
+      "FileSize": 180041,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/space/texture_space_02-148x148.jpg",
+      "Color": "#ff220c16"
+    }
+  ],
+  "Layout": {
+    "LayoutId": "UniformGridLayout",
+    "Orientation": "Vertical",
+    "MaximumRowsOrColumns": 1,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96
+  },
+  "PageLayout": {
+    "LayoutId": "UniformGridLayout",
+    "Orientation": "Horizontal",
+    "MaximumRowsOrColumns": 3,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96
+  }
+}

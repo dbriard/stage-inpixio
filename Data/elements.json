@@ -9,7 +9,7 @@
       }
     ],
     "Layout": {
-      "LayoutType": "UniformGridLayout",
+      "LayoutId": "UniformGridLayout",
       "MinColumnSpacing": 8,
       "MinItemHeight": 70,
       "MinItemWidth": 70,
@@ -17,8 +17,8 @@
       "MaximumRowsOrColumns": 4,
       "Orientation": 0
     },
-    "ExpandedLayout": {
-      "LayoutType": "UniformGridLayout",
+    "PopularLayout": {
+      "LayoutId": "UniformGridLayout",
       "MinColumnSpacing": 8,
       "MinItemHeight": 70,
       "MinItemWidth": 70,
@@ -157,23 +157,19 @@
         "Title": "Saisons "
       }
     ],
-    "Layout": {
-      "LayoutType": "UniformGridLayout",
-      "MinColumnSpacing": 8,
+    "PopularLayout": {
+      "LayoutId": "UniformGridLayout",
       "MinItemHeight": 96,
       "MinItemWidth": 96,
-      "MinRowSpacing": 8,
       "MaximumRowsOrColumns": 1,
       "Orientation": 1
     },
-    "ExpandedLayout": {
-      "LayoutType": "UniformGridLayout",
-      "MinColumnSpacing": 8,
-      "MinItemHeight": 96,
+    "Layout": {
+      "LayoutId": "UniformGridLayout",
       "MinItemWidth": 96,
-      "MinRowSpacing": 8,
-      "MaximumRowsOrColumns": 1,
-      "Orientation": 1
+      "MinItemHeight": 96,
+      "MaximumRowsOrColumns": 3,
+      "Orientation": 0
     },
     "Count": 12,
     "Total": 12,
@@ -273,8 +269,8 @@
         "Title": "Vacances"
       }
     ],
-    "Layout": {
-      "LayoutType": "UniformGridLayout",
+    "PopularLayout": {
+      "LayoutId": "UniformGridLayout",
       "MinColumnSpacing": 8,
       "MinItemHeight": 96,
       "MinItemWidth": 96,
@@ -282,14 +278,12 @@
       "MaximumRowsOrColumns": 1,
       "Orientation": 1
     },
-    "ExpandedLayout": {
-      "LayoutType": "UniformGridLayout",
-      "MinColumnSpacing": 8,
-      "MinItemHeight": 96,
-      "MinItemWidth": 96,
-      "MinRowSpacing": 8,
-      "MaximumRowsOrColumns": 1,
-      "Orientation": 1
+    "Layout": {
+      "LayoutId": "UniformGridLayout",
+      "MinItemWidth": 148,
+      "MinItemHeight": 148,
+      "MaximumRowsOrColumns": 2,
+      "Orientation": 0
     },
     "Count": 12,
     "Total": 16,
@@ -362,11 +356,11 @@
     "Translations": [
       {
         "Language": "fr",
-        "Title": "Textures "
+        "Title": "Textures"
       }
     ],
-    "Layout": {
-      "LayoutType": "UniformGridLayout",
+    "PopularLayout": {
+      "LayoutId": "UniformGridLayout",
       "MinColumnSpacing": 8,
       "MinItemHeight": 96,
       "MinItemWidth": 96,
@@ -374,14 +368,12 @@
       "MaximumRowsOrColumns": 1,
       "Orientation": 1
     },
-    "ExpandedLayout": {
-      "LayoutType": "UniformGridLayout",
-      "MinColumnSpacing": 8,
-      "MinItemHeight": 96,
+    "Layout": {
+      "LayoutId": "UniformGridLayout",
       "MinItemWidth": 96,
-      "MinRowSpacing": 8,
-      "MaximumRowsOrColumns": 1,
-      "Orientation": 1
+      "MinItemHeight": 96,
+      "MaximumRowsOrColumns": 3,
+      "Orientation": 0
     },
     "Count": 12,
     "Total": 12,
@@ -505,26 +497,22 @@
         "Title": "Dossier"
       }
     ],
-    "Layout": {
-      "LayoutType": "UniformGridLayout",
-      "MinColumnSpacing": 8,
+    "PopularLayout": {
+      "LayoutId": "UniformGridLayout",
       "MinItemWidth": 148,
       "MinItemHeight": 96,
-      "MinRowSpacing": 8,
       "MaximumRowsOrColumns": 1,
       "Orientation": 1
     },
-    "ExpandedLayout": {
-      "LayoutType": "UniformGridLayout",
-      "MinColumnSpacing": 8,
+    "Layout": {
+      "LayoutId": "UniformGridLayout",
+      "MinItemWidth": 148,
       "MinItemHeight": 96,
-      "MinItemWidth": 96,
-      "MinRowSpacing": 8,
-      "MaximumRowsOrColumns": 1,
-      "Orientation": 1
+      "MaximumRowsOrColumns": 2,
+      "Orientation": 0
     },
-    "Count": 2,
-    "Total": 2,
+    "Count": 3,
+    "Total": 9,
     "Results": [
       {
         "id": "seasons",
@@ -533,6 +521,41 @@
       },
       {
         "id": "holidays",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/Data/holidays.json",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vectors/holidays-148x96.jpg"
+      },
+      {
+        "id": "holidays2",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/Data/holidays.json",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vectors/holidays-148x96.jpg"
+      },
+      {
+        "id": "holidays2",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/Data/holidays.json",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vectors/holidays-148x96.jpg"
+      },
+      {
+        "id": "holidays2",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/Data/holidays.json",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vectors/holidays-148x96.jpg"
+      },
+      {
+        "id": "holidays2",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/Data/holidays.json",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vectors/holidays-148x96.jpg"
+      },
+      {
+        "id": "holidays2",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/Data/holidays.json",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vectors/holidays-148x96.jpg"
+      },
+      {
+        "id": "holidays2",
+        "imageURL": "https://dbriard.github.io/stage-inpixio/Data/holidays.json",
+        "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vectors/holidays-148x96.jpg"
+      },
+      {
+        "id": "holidays2",
         "imageURL": "https://dbriard.github.io/stage-inpixio/Data/holidays.json",
         "previewURL": "https://dbriard.github.io/stage-inpixio/assets/vectors/holidays-148x96.jpg"
       }
