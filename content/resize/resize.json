@@ -114,5 +114,16 @@
         ]
       }
     ]
+  },
+  {
+    "Name": "Other",
+    "Icon": null,
+    "Items": [
+      {
+        "Name": null,
+        "Icon": null,
+        "Formats":[]
+      }
+    ]
   }
 ]
