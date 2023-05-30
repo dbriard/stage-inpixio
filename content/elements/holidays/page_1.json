@@ -1,6 +1,6 @@
 {
   "Title": "Holidays",
-  "ElementType": "Svg",
+  "ElementType": 2,
   "Translations": [
     {
       "Language": "fr",
@@ -157,7 +157,7 @@
   ],
   "Layout": {
     "LayoutId": "UniformGridLayout",
-    "Orientation": "Horizontal",
+    "Orientation": 0,
     "MaximumRowsOrColumns": 3,
     "MinItemWidth": 96,
     "MinItemHeight": 96

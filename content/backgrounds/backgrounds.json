@@ -1,7 +1,7 @@
 [
   {
     "Title": "Popular Colors",
-    "ElementType": "Color",
+    "ElementType": 6,
     "Translations": [
       {
         "Language": "fr",
@@ -110,29 +110,29 @@
     ],
     "Layout": {
       "LayoutId": "UniformGridLayout",
-      "Orientation": "Vertical",
+      "Orientation": 1,
       "MaximumRowsOrColumns": 1,
       "MinItemWidth": 96,
       "MinItemHeight": 96
     },
     "PageLayout": {
       "LayoutId": "UniformGridLayout",
-      "Orientation": "Horizontal",
+      "Orientation": 0,
       "MaximumRowsOrColumns": 6,
       "MinItemWidth": 44,
       "MinItemHeight": 44
-    }
+    },
+    "Featured": 3
   },
   {
     "Title": "Solid Colors",
-    "ElementType": "Color",
+    "ElementType": 6,
     "Translations": [
       {
         "Language": "fr",
         "Title": "Couleurs unies"
       }
     ],
-    "Featured": 24,
     "Total": 24,
     "PerPage": 25,
     "Results": [
@@ -235,17 +235,18 @@
     ],
     "Layout": {
       "LayoutId": "UniformGridLayout",
-      "Orientation": "Horizontal",
+      "Orientation": 0,
       "MaximumRowsOrColumns": 6,
       "MinItemWidth": 44,
       "MinItemHeight": 44
     },
     "PageLayout": {
       "LayoutId": "UniformGridLayout",
-      "Orientation": "Horizontal",
+      "Orientation": 0,
       "MaximumRowsOrColumns": 6,
       "MinItemWidth": 44,
       "MinItemHeight": 44
-    }
+    },
+    "Featured": 24
   }
 ]

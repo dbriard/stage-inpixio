@@ -1,6 +1,6 @@
 {
   "Title": "70_Space",
-  "ElementType": "Image",
+  "ElementType": 3,
   "Total": 2,
   "PerPage": 25,
   "Results": [
@@ -21,14 +21,14 @@
   ],
   "Layout": {
     "LayoutId": "UniformGridLayout",
-    "Orientation": "Vertical",
+    "Orientation": 1,
     "MaximumRowsOrColumns": 1,
     "MinItemWidth": 96,
     "MinItemHeight": 96
   },
   "PageLayout": {
     "LayoutId": "UniformGridLayout",
-    "Orientation": "Horizontal",
+    "Orientation": 0,
     "MaximumRowsOrColumns": 3,
     "MinItemWidth": 96,
     "MinItemHeight": 96

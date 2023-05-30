@@ -1,12 +1,12 @@
 {
   "Title": "Sports",
-  "ElementType": "Svg",
+  "ElementType": 2,
   "Total": 30,
   "PerPage": 25,
   "Results": [],
   "Layout": {
     "LayoutId": "UniformGridLayout",
-    "Orientation": "Horizontal",
+    "Orientation": 0,
     "MaximumRowsOrColumns": 3,
     "MinItemWidth": 96,
     "MinItemHeight": 96
