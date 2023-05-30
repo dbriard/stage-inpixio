@@ -1,0 +1,118 @@
+[
+  {
+    "Name": "Social Media",
+    "Icon": "PersonAccounts",
+    "Items": [
+      {
+        "Name": "Instagram",
+        "Icon": null,
+        "Formats":[
+          {
+            "Name": "Default",
+            "Width": 1080,
+            "Height": 1080
+          },
+          {
+            "Name": "Instagram Story",
+            "Width": 1080,
+            "Height": 1920
+          },
+          {
+            "Name": "Instagram Portrait",
+            "Width": 1080,
+            "Height": 1350
+          },
+          {
+            "Name": "Instagram Landscape",
+            "Width": 1080,
+            "Height": 566
+          }
+        ]
+      },
+      {
+        "Name": "Facebook",
+        "Icon": null,
+        "Formats":[
+          {
+            "Name": "Default",
+            "Width": 1200,
+            "Height": 628
+          }
+        ]
+      },
+      {
+        "Name": "Pinterest",
+        "Icon": null,
+        "Formats":[
+          {
+            "Name": "Default",
+            "Width": 735,
+            "Height": 1102
+          }
+        ]
+      },
+      {
+        "Name": "Youtube thumbnail",
+        "Icon": null,
+        "Formats":[
+          {
+            "Name": "Default",
+            "Width": 1280,
+            "Height": 720
+          }
+        ]
+      },
+      {
+        "Name": "LinkedIn blog post",
+        "Icon": null,
+        "Formats":[
+          {
+            "Name": "Default",
+            "Width": 1280,
+            "Height": 720
+          }
+        ]
+      },
+      {
+        "Name": "Snapchat story",
+        "Icon": null,
+        "Formats":[
+          {
+            "Name": "Default",
+            "Width": 1080,
+            "Height": 1920
+          }
+        ]
+      },
+      {
+        "Name": "Twitter",
+        "Icon": null,
+        "Formats":[
+          {
+            "Name": "Default",
+            "Width": 1200,
+            "Height": 670
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Print",
+    "Icon": "Print",
+    "Items": [
+      {
+        "Name": null,
+        "Icon": null,
+        "Formats":[
+          {
+            "Name": "A4",
+            "Width": 210,
+            "Height": 297,
+            "Units": "Millimeters"
+          }
+        ]
+      }
+    ]
+  }
+]
