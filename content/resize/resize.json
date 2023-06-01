@@ -1,7 +1,7 @@
 [
   {
     "Name": "Social Media",
-    "Icon": "PersonAccounts",
+    "Icon": "Groups",
     "Translations":[
       {
         "Language": "fr",
@@ -113,19 +113,19 @@
       },
       {
         "Name": "Youtube thumbnail",
-        "Icon": null,
-        "Translations":[
+        "Icon": "YoutubeActivity",
+        "Translations": [
           {
             "Language": "fr",
             "Name": ""
           }
         ],
-        "Formats":[
+        "Formats": [
           {
             "Name": "Default",
             "Width": 1280,
             "Height": 720,
-            "Translations":[
+            "Translations": [
               {
                 "Language": "fr",
                 "Name": ""
