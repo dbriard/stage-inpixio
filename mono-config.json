@@ -213,10 +213,6 @@
     },
     {
       "behavior": "assembly",
-      "name": "MUI.Themes.Fluent.dll"
-    },
-    {
-      "behavior": "assembly",
       "name": "MUI.Themes.InPixio.dll"
     },
     {

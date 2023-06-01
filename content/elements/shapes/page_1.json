@@ -1,6 +1,6 @@
 {
   "Title": "Shapes",
-  "ElementType": "Shape",
+  "ElementType": 1,
   "Translations": [
     {
       "Language": "fr",
@@ -133,7 +133,7 @@
   ],
   "Layout": {
     "LayoutId": "UniformGridLayout",
-    "Orientation": "Horizontal",
+    "Orientation": 0,
     "MaximumRowsOrColumns": 4,
     "MinItemWidth": 70,
     "MinItemHeight": 70

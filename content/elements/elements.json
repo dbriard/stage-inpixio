@@ -1,7 +1,7 @@
 [
   {
     "Title": "Shapes",
-    "ElementType": "Shape",
+    "ElementType": 1,
     "Translations": [
       {
         "Language": "fr",
@@ -134,22 +134,23 @@
     ],
     "Layout": {
       "LayoutId": "UniformGridLayout",
-      "Orientation": "Vertical",
+      "Orientation": 1,
       "MaximumRowsOrColumns": 2,
       "MinItemWidth": 70,
       "MinItemHeight": 70
     },
     "PageLayout": {
       "LayoutId": "UniformGridLayout",
-      "Orientation": "Horizontal",
+      "Orientation": 0,
       "MaximumRowsOrColumns": 4,
       "MinItemWidth": 70,
       "MinItemHeight": 70
-    }
+    },
+    "Featured": 12
   },
   {
     "Title": "Holidays",
-    "ElementType": "Svg",
+    "ElementType": 2,
     "Translations": [
       {
         "Language": "fr",
@@ -270,22 +271,23 @@
     ],
     "Layout": {
       "LayoutId": "UniformGridLayout",
-      "Orientation": "Vertical",
+      "Orientation": 1,
       "MaximumRowsOrColumns": 1,
       "MinItemWidth": 96,
       "MinItemHeight": 96
     },
     "PageLayout": {
       "LayoutId": "UniformGridLayout",
-      "Orientation": "Horizontal",
+      "Orientation": 0,
       "MaximumRowsOrColumns": 3,
       "MinItemWidth": 96,
       "MinItemHeight": 96
-    }
+    },
+    "Featured": 12
   },
   {
     "Title": "Seasons",
-    "ElementType": "Svg",
+    "ElementType": 2,
     "Translations": [
       {
         "Language": "fr",
@@ -406,22 +408,23 @@
     ],
     "Layout": {
       "LayoutId": "UniformGridLayout",
-      "Orientation": "Vertical",
+      "Orientation": 1,
       "MaximumRowsOrColumns": 1,
       "MinItemWidth": 96,
       "MinItemHeight": 96
     },
     "PageLayout": {
       "LayoutId": "UniformGridLayout",
-      "Orientation": "Horizontal",
+      "Orientation": 0,
       "MaximumRowsOrColumns": 3,
       "MinItemWidth": 96,
       "MinItemHeight": 96
-    }
+    },
+    "Featured": 12
   },
   {
     "Title": "Cliparts",
-    "ElementType": "Folder",
+    "ElementType": 4,
     "Translations": [
       {
         "Language": "fr",
@@ -494,22 +497,23 @@
     ],
     "Layout": {
       "LayoutId": "UniformGridLayout",
-      "Orientation": "Vertical",
+      "Orientation": 1,
       "MaximumRowsOrColumns": 1,
       "MinItemWidth": 148,
       "MinItemHeight": 148
     },
     "PageLayout": {
       "LayoutId": "UniformGridLayout",
-      "Orientation": "Horizontal",
+      "Orientation": 0,
       "MaximumRowsOrColumns": 2,
       "MinItemWidth": 148,
       "MinItemHeight": 148
-    }
+    },
+    "Featured": 12
   },
   {
     "Title": "Textures",
-    "ElementType": "Folder",
+    "ElementType": 4,
     "Translations": [
       {
         "Language": "fr",
@@ -570,17 +574,18 @@
     ],
     "Layout": {
       "LayoutId": "UniformGridLayout",
-      "Orientation": "Vertical",
+      "Orientation": 1,
       "MaximumRowsOrColumns": 1,
       "MinItemWidth": 148,
       "MinItemHeight": 96
     },
     "PageLayout": {
       "LayoutId": "UniformGridLayout",
-      "Orientation": "Horizontal",
+      "Orientation": 0,
       "MaximumRowsOrColumns": 2,
       "MinItemWidth": 148,
       "MinItemHeight": 96
-    }
+    },
+    "Featured": 12
   }
 ]

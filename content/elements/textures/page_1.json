@@ -1,6 +1,6 @@
 {
   "Title": "Textures",
-  "ElementType": "Folder",
+  "ElementType": 4,
   "Translations": [
     {
       "Language": "fr",
@@ -61,7 +61,7 @@
   ],
   "Layout": {
     "LayoutId": "UniformGridLayout",
-    "Orientation": "Horizontal",
+    "Orientation": 0,
     "MaximumRowsOrColumns": 2,
     "MinItemWidth": 148,
     "MinItemHeight": 96

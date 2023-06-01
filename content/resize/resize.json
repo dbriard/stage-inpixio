@@ -1,0 +1,267 @@
+[
+  {
+    "Name": "Social Media",
+    "Icon": "PersonAccounts",
+    "Translations":[
+      {
+        "Language": "fr",
+        "Name": ""
+      }
+    ],
+    "Items": [
+      {
+        "Name": "Instagram",
+        "Icon": null,
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": ""
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Default",
+            "Width": 1080,
+            "Height": 1080,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": ""
+              }
+            ]
+          },
+          {
+            "Name": "Instagram Story",
+            "Width": 1080,
+            "Height": 1920,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": ""
+              }
+            ]
+          },
+          {
+            "Name": "Instagram Portrait",
+            "Width": 1080,
+            "Height": 1350,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": ""
+              }
+            ]
+          },
+          {
+            "Name": "Instagram Landscape",
+            "Width": 1080,
+            "Height": 566,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Facebook",
+        "Icon": null,
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": ""
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Default",
+            "Width": 1200,
+            "Height": 628,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Pinterest",
+        "Icon": null,
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": ""
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Default",
+            "Width": 735,
+            "Height": 1102,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Youtube thumbnail",
+        "Icon": null,
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": ""
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Default",
+            "Width": 1280,
+            "Height": 720,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "LinkedIn blog post",
+        "Icon": null,
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": ""
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Default",
+            "Width": 1280,
+            "Height": 720,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Snapchat story",
+        "Icon": null,
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": ""
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Default",
+            "Width": 1080,
+            "Height": 1920,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Twitter",
+        "Icon": null,
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": ""
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "Default",
+            "Width": 1200,
+            "Height": 670,
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Print",
+    "Icon": "Print",
+    "Translations":[
+      {
+        "Language": "fr",
+        "Name": ""
+      }
+    ],
+    "Items": [
+      {
+        "Name": null,
+        "Icon": null,
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": ""
+          }
+        ],
+        "Formats":[
+          {
+            "Name": "A4",
+            "Width": 210,
+            "Height": 297,
+            "Units": "Millimeters",
+            "Translations":[
+              {
+                "Language": "fr",
+                "Name": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Other",
+    "Icon": null,
+    "Translations":[
+      {
+        "Language": "fr",
+        "Name": ""
+      }
+    ],
+    "Items": [
+      {
+        "Name": null,
+        "Icon": null,
+        "Translations":[
+          {
+            "Language": "fr",
+            "Name": ""
+          }
+        ],
+        "Formats":[]
+      }
+    ]
+  }
+]
