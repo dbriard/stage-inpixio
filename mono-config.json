@@ -221,6 +221,10 @@
     },
     {
       "behavior": "assembly",
+      "name": "Pixabay.Models.dll"
+    },
+    {
+      "behavior": "assembly",
       "name": "ReactiveUI.dll"
     },
     {
@@ -349,6 +353,10 @@
     },
     {
       "behavior": "assembly",
+      "name": "System.Net.Http.Json.dll"
+    },
+    {
+      "behavior": "assembly",
       "name": "System.Net.Primitives.dll"
     },
     {
@@ -414,6 +422,10 @@
     {
       "behavior": "assembly",
       "name": "System.Text.RegularExpressions.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "System.Web.HttpUtility.dll"
     },
     {
       "behavior": "assembly",
