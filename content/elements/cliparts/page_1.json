@@ -14,61 +14,71 @@
       "Id": "Balloons",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/balloons/page_1.json",
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/balloons/thumbnail-148x148..png",
-      "Color": "#fff8f8f8"
+      "Color": "#fffafafa",
+      "BlurHash": "K2TI,a_3oz_3ofaLRjaykC"
     },
     {
       "Id": "Banners",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/page_1.json",
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/thumbnail-148x148..png",
-      "Color": "#ffebeeee"
+      "Color": "#fff2f3f4",
+      "BlurHash": "K1S?DV?v?H?bt74.?a9Zxu"
     },
     {
       "Id": "Birthday",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/birthday/page_1.json",
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/birthday/thumbnail-148x148..png",
-      "Color": "#ffede5e8"
+      "Color": "#fff3eeef",
+      "BlurHash": "K6S?7Gxu?]-VxupIMyoz.R"
     },
     {
       "Id": "Frames",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/frames/page_1.json",
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/frames/thumbnail-148x148..png",
-      "Color": "#ffe4c2cb"
+      "Color": "#ffedd6dc",
+      "BlurHash": "K6SiEd:SzWy=-pE1D%.8qb"
     },
     {
       "Id": "Holidays",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/holidays/page_1.json",
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/holidays/thumbnail-148x148..png",
-      "Color": "#ffded9de"
+      "Color": "#ffe9e5e8",
+      "BlurHash": "K2SY]j-;J7?w%LNG-VIoMx"
     },
     {
       "Id": "Lines",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/page_1.json",
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/thumbnail-148x148..png",
-      "Color": "#ffffffff"
+      "Color": "#ffffffff",
+      "BlurHash": "K1TSUA~qfQ~qj[fQfQfQfQ"
     },
     {
       "Id": "Romantic",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/romantic/page_1.json",
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/romantic/thumbnail-148x148..png",
-      "Color": "#ffe2cad1"
+      "Color": "#ffecdbe0",
+      "BlurHash": "K9SiN$DP\u002Bx^k=y-V.lMeAB"
     },
     {
       "Id": "Seasons",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/seasons/page_1.json",
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/seasons/thumbnail-148x148..png",
-      "Color": "#ffe9e1e5"
+      "Color": "#fff0eaee",
+      "BlurHash": "K3S$ig_M-:^\u002BVt%MNHrDtl"
     },
     {
       "Id": "Sports",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/page_1.json",
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/thumbnail-148x148..png",
-      "Color": "#ffebe9ee"
+      "Color": "#fff1f0f3",
+      "BlurHash": "K1S?AO~qv}~qWCW;w^ofKP"
     },
     {
       "Id": "Tattoos",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/tattoos/page_1.json",
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/tattoos/thumbnail-148x148..png",
-      "Color": "#ffffffff"
+      "Color": "#ffffffff",
+      "BlurHash": "K1TSUA~qfQ~qj[fQfQfQfQ"
     }
   ],
   "Layout": {

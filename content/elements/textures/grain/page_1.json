@@ -7,30 +7,42 @@
     {
       "Id": "texture_grain_01",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/grain/texture_grain_01.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 2013809,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/grain/texture_grain_01-148x148.jpg",
-      "Color": "#ff787778"
+      "Color": "#ff787778",
+      "BlurHash": "K0LN*{~qM{~qfRofoyoMs:"
     },
     {
       "Id": "texture_grain_02",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/grain/texture_grain_02.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 1580298,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/grain/texture_grain_02-148x148.jpg",
-      "Color": "#ff787878"
+      "Color": "#ff787878",
+      "BlurHash": "K0LN.4~qIU~qayofoft7t7"
     },
     {
       "Id": "texture_grain_03",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/grain/texture_grain_03.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 694818,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/grain/texture_grain_03-148x148.jpg",
-      "Color": "#ff767676"
+      "Color": "#ff767676",
+      "BlurHash": "K1L4yu_3Rj?bayofj[ofof"
     },
     {
       "Id": "texture_grain_04",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/grain/texture_grain_04.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 2025358,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/grain/texture_grain_04-148x148.jpg",
-      "Color": "#ff848484"
+      "Color": "#ff848484",
+      "BlurHash": "KCM7u;00IUxuWBayWBayof"
     }
   ],
   "Layout": {

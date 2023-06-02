@@ -7,58 +7,82 @@
     {
       "Id": "texture_film_01",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/texture_film_01.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 403896,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/texture_film_01-148x148.jpg",
-      "Color": "#ffdde1dc"
+      "Color": "#ffdde1dc",
+      "BlurHash": "KSQ]{6M{9a$\u002Bs:of0eR*NG"
     },
     {
       "Id": "texture_film_02",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/texture_film_02.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 969536,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/texture_film_02-148x148.jpg",
-      "Color": "#ffd4ccb2"
+      "Color": "#ffd4ccb2",
+      "BlurHash": "KRQS@xM{00-;WBoe9FRjNG"
     },
     {
       "Id": "texture_film_03",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/texture_film_03.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 956258,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/texture_film_03-148x148.jpg",
-      "Color": "#ff8ae5d3"
+      "Color": "#ff8ae5d3",
+      "BlurHash": "KyMJ28r?M|1cWVe:RRaynj"
     },
     {
       "Id": "texture_film_04",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/texture_film_04.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 1148753,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/texture_film_04-148x148.jpg",
-      "Color": "#ffd3ccb7"
+      "Color": "#ffd3ccb7",
+      "BlurHash": "KXR3Aukqn31ij]of8_oebJ"
     },
     {
       "Id": "texture_film_05",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/texture_film_05.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 568065,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/texture_film_05-148x148.jpg",
-      "Color": "#ffd4d2cf"
+      "Color": "#ffd4d2cf",
+      "BlurHash": "KmP%Is%g01nit6WVD%WCRj"
     },
     {
       "Id": "texture_film_06",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/texture_film_06.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 930424,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/texture_film_06-148x148.jpg",
-      "Color": "#ffc2af91"
+      "Color": "#ffc2af91",
+      "BlurHash": "KWPi#7M_4Tx]t7oIMxoMo#"
     },
     {
       "Id": "texture_film_07",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/texture_film_07.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 724995,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/texture_film_07-148x148.jpg",
-      "Color": "#ffe7e0da"
+      "Color": "#ffe7e0da",
+      "BlurHash": "KdRV,]t7IAj[kCj[4mogRj"
     },
     {
       "Id": "texture_film_08",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/texture_film_08.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 641844,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/film/texture_film_08-148x148.jpg",
-      "Color": "#fff4f4f4"
+      "Color": "#fff4f4f4",
+      "BlurHash": "K3S?DV_3Rj_3IUof4nofRj"
     }
   ],
   "Layout": {

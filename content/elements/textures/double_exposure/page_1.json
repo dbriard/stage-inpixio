@@ -7,30 +7,42 @@
     {
       "Id": "texture_doubleexposure_01",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/texture_doubleexposure_01.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 1104915,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/texture_doubleexposure_01-148x148.jpg",
-      "Color": "#ff9fa57d"
+      "Color": "#ff9fa57d",
+      "BlurHash": "KkOW\u002BpM{WF_4t6xu?bt8j["
     },
     {
       "Id": "texture_doubleexposure_02",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/texture_doubleexposure_02.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 1075269,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/texture_doubleexposure_02-148x148.jpg",
-      "Color": "#ff786f64"
+      "Color": "#ff786f64",
+      "BlurHash": "KcLNlN.7WE?^%MoLbFRRn$"
     },
     {
       "Id": "texture_doubleexposure_03",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/texture_doubleexposure_03.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 819200,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/texture_doubleexposure_03-148x148.jpg",
-      "Color": "#ff68655e"
+      "Color": "#ff68655e",
+      "BlurHash": "KEJRXC?F02~oxtM|4qM}t6"
     },
     {
       "Id": "texture_doubleexposure_04",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/texture_doubleexposure_04.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 1348097,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/double_exposure/texture_doubleexposure_04-148x148.jpg",
-      "Color": "#ff63683c"
+      "Color": "#ff63683c",
+      "BlurHash": "KLJuJN5Et5~dIqt7$*ROt8"
     }
   ],
   "Layout": {

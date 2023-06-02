@@ -10,8 +10,8 @@
       "Width": 1000,
       "Height": 720,
       "FileSize": 905,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/romantic/love_01-148x114.png",
-      "Color": "#beff91a8"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/romantic/love_01-148x121.png",
+      "Color": "#88ff90a7"
     },
     {
       "Id": "love_02",
@@ -19,8 +19,8 @@
       "Width": 1000,
       "Height": 613,
       "FileSize": 4553,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/romantic/love_02-148x100.png",
-      "Color": "#87a67588"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/romantic/love_02-148x110.png",
+      "Color": "#5bab7889"
     },
     {
       "Id": "love_03",
@@ -29,7 +29,7 @@
       "Height": 1000,
       "FileSize": 2727,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/romantic/love_03-148x148.png",
-      "Color": "#0dff9db1"
+      "Color": "#08ff809f"
     },
     {
       "Id": "love_04",
@@ -37,8 +37,8 @@
       "Width": 930,
       "Height": 1000,
       "FileSize": 13547,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/romantic/love_04-139x148.png",
-      "Color": "#badd7d93"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/romantic/love_04-141x148.png",
+      "Color": "#7ad97b90"
     },
     {
       "Id": "love_05",
@@ -46,8 +46,8 @@
       "Width": 850,
       "Height": 1000,
       "FileSize": 11603,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/romantic/love_05-130x148.png",
-      "Color": "#98595b66"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/romantic/love_05-133x148.png",
+      "Color": "#62585865"
     },
     {
       "Id": "love_06",
@@ -56,7 +56,7 @@
       "Height": 1000,
       "FileSize": 11299,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/romantic/love_06-148x148.png",
-      "Color": "#b3ec849b"
+      "Color": "#77ec859a"
     },
     {
       "Id": "love_07",
@@ -65,7 +65,7 @@
       "Height": 1000,
       "FileSize": 37300,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/romantic/love_07-148x148.png",
-      "Color": "#b36b6b76"
+      "Color": "#77696976"
     },
     {
       "Id": "love_08",
@@ -73,8 +73,8 @@
       "Width": 1000,
       "Height": 793,
       "FileSize": 11309,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/romantic/love_08-148x121.png",
-      "Color": "#9de5c3cd"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/romantic/love_08-148x127.png",
+      "Color": "#6fe6c6cc"
     },
     {
       "Id": "love_09",
@@ -83,7 +83,7 @@
       "Height": 986,
       "FileSize": 479,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/romantic/love_09-148x146.png",
-      "Color": "#b1ffebef"
+      "Color": "#74ffebed"
     }
   ],
   "Layout": {

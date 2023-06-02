@@ -16,8 +16,8 @@
       "Width": 945,
       "Height": 1000,
       "FileSize": 13358,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_01-140x148.png",
-      "Color": "#3ede94a5"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_01-143x148.png",
+      "Color": "#28df99ac"
     },
     {
       "Id": "season_02",
@@ -25,8 +25,8 @@
       "Width": 927,
       "Height": 1000,
       "FileSize": 9969,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_02-139x148.png",
-      "Color": "#5a9f7788"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_02-140x148.png",
+      "Color": "#3a9e7788"
     },
     {
       "Id": "season_03",
@@ -34,8 +34,8 @@
       "Width": 937,
       "Height": 1000,
       "FileSize": 8969,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_03-140x148.png",
-      "Color": "#40bf9fbb"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_03-141x148.png",
+      "Color": "#29c1a2bb"
     },
     {
       "Id": "season_04",
@@ -43,8 +43,8 @@
       "Width": 646,
       "Height": 1000,
       "FileSize": 21446,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_04-104x148.png",
-      "Color": "#3e987784"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_04-113x148.png",
+      "Color": "#2a987386"
     },
     {
       "Id": "season_05",
@@ -52,8 +52,8 @@
       "Width": 677,
       "Height": 1000,
       "FileSize": 10966,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_05-109x148.png",
-      "Color": "#5c988da4"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_05-116x148.png",
+      "Color": "#3f9e92a6"
     },
     {
       "Id": "season_06",
@@ -62,7 +62,7 @@
       "Height": 1000,
       "FileSize": 6075,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_06-146x148.png",
-      "Color": "#5bc18fa0"
+      "Color": "#3cc4919d"
     },
     {
       "Id": "season_07",
@@ -70,8 +70,8 @@
       "Width": 647,
       "Height": 1000,
       "FileSize": 94053,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_07-104x148.png",
-      "Color": "#4b7a697a"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_07-114x148.png",
+      "Color": "#347b677b"
     },
     {
       "Id": "season_08",
@@ -79,8 +79,8 @@
       "Width": 827,
       "Height": 1000,
       "FileSize": 9000,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_08-125x148.png",
-      "Color": "#60978292"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_08-131x148.png",
+      "Color": "#3299808f"
     },
     {
       "Id": "season_09",
@@ -88,8 +88,8 @@
       "Width": 723,
       "Height": 1000,
       "FileSize": 17220,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_09-114x148.png",
-      "Color": "#869a8da2"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_09-121x148.png",
+      "Color": "#5b9a8ca3"
     },
     {
       "Id": "season_10",
@@ -98,7 +98,7 @@
       "Height": 1000,
       "FileSize": 31679,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_10-148x148.png",
-      "Color": "#a7ad91a3"
+      "Color": "#6dad8ca1"
     },
     {
       "Id": "season_11",
@@ -106,8 +106,8 @@
       "Width": 751,
       "Height": 1000,
       "FileSize": 11991,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_11-118x148.png",
-      "Color": "#677e798d"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_11-124x148.png",
+      "Color": "#477e778c"
     },
     {
       "Id": "season_12",
@@ -115,8 +115,8 @@
       "Width": 929,
       "Height": 1000,
       "FileSize": 21545,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_12-140x148.png",
-      "Color": "#4a6e677c"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/seasons/season_12-141x148.png",
+      "Color": "#2f6d6777"
     }
   ],
   "Layout": {

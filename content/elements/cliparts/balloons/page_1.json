@@ -10,8 +10,8 @@
       "Width": 1000,
       "Height": 862,
       "FileSize": 1427,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/balloons/balloon_01-148x132.png",
-      "Color": "#8cf4f4f6"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/balloons/balloon_01-148x134.png",
+      "Color": "#5af4f4f6"
     },
     {
       "Id": "balloon_02",
@@ -20,7 +20,7 @@
       "Height": 1000,
       "FileSize": 1373,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/balloons/balloon_02-146x148.png",
-      "Color": "#97f5f7f7"
+      "Color": "#61f2f4f4"
     },
     {
       "Id": "balloon_03",
@@ -28,8 +28,8 @@
       "Width": 1000,
       "Height": 750,
       "FileSize": 2435,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/balloons/balloon_03-148x116.png",
-      "Color": "#b1f6f8f9"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/balloons/balloon_03-148x122.png",
+      "Color": "#80f3f3f3"
     },
     {
       "Id": "balloon_04",
@@ -37,8 +37,8 @@
       "Width": 1000,
       "Height": 682,
       "FileSize": 1242,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/balloons/balloon_04-148x109.png",
-      "Color": "#aaf6f8f8"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/balloons/balloon_04-148x117.png",
+      "Color": "#76f4f4f6"
     },
     {
       "Id": "balloon_05",
@@ -46,8 +46,8 @@
       "Width": 1000,
       "Height": 671,
       "FileSize": 1270,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/balloons/balloon_05-148x108.png",
-      "Color": "#9ff5f7f7"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/balloons/balloon_05-148x115.png",
+      "Color": "#6cf3f6f6"
     },
     {
       "Id": "balloon_06",
@@ -55,8 +55,8 @@
       "Width": 1000,
       "Height": 688,
       "FileSize": 1090,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/balloons/balloon_06-148x110.png",
-      "Color": "#b4f8f8f8"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/balloons/balloon_06-148x116.png",
+      "Color": "#7df5f7f7"
     },
     {
       "Id": "balloon_07",
@@ -65,7 +65,7 @@
       "Height": 1000,
       "FileSize": 9900,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/balloons/balloon_07-145x148.png",
-      "Color": "#8ff3f4f4"
+      "Color": "#5df1f1f4"
     },
     {
       "Id": "balloon_08",
@@ -73,8 +73,8 @@
       "Width": 1000,
       "Height": 758,
       "FileSize": 9713,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/balloons/balloon_08-148x118.png",
-      "Color": "#9ff2edef"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/balloons/balloon_08-148x124.png",
+      "Color": "#71efe8eb"
     },
     {
       "Id": "balloon_09",
@@ -82,8 +82,8 @@
       "Width": 1000,
       "Height": 956,
       "FileSize": 902,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/balloons/balloon_09-148x142.png",
-      "Color": "#adf6f8f8"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/balloons/balloon_09-148x144.png",
+      "Color": "#70f6f8f8"
     }
   ],
   "Layout": {

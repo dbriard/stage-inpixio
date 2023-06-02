@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\content",
+    "\\content\\backgrounds",
+    "\\content\\elements",
+    "\\content\\resize"
   ],
+  "SelectedNode": "\\content\\backgrounds\\backgrounds.json",
   "PreviewInSolutionExplorer": false
 }
