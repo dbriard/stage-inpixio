@@ -7,65 +7,92 @@
     {
       "Id": "texture_geometric_01",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_01.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 415396,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_01-148x148.jpg",
-      "Color": "#ffbfc18b"
+      "Color": "#ffbfc18b",
+      "BlurHash": "K1Q0Z_.7fR_2s,fQbIf6fQ"
     },
     {
       "Id": "texture_geometric_02",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_02.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 385865,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_02-148x148.jpg",
-      "Color": "#ff727166"
+      "Color": "#ff727166",
+      "BlurHash": "KHLEA=w@\u002Bu?^kP%L^4v{gO"
     },
     {
       "Id": "texture_geometric_03",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_03.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 389529,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_03-148x148.jpg",
-      "Color": "#ff734802"
+      "Color": "#ff734802",
+      "BlurHash": "K5K]@X%Kw|~frsE5%cEOIu"
     },
     {
       "Id": "texture_geometric_04",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_04.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 383730,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_04-148x148.jpg",
-      "Color": "#ffb15352"
+      "Color": "#ffb15352",
+      "BlurHash": "K]Pq?QoLkCweaea|.mj[kC"
     },
     {
       "Id": "texture_geometric_05",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_05.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 671840,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_05-148x148.jpg",
-      "Color": "#ff898788"
+      "Color": "#ff898788",
+      "BlurHash": "K0Mj:g~qjt~q00fQayfQfQ"
     },
     {
       "Id": "texture_geometric_06",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_06.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 1297700,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_06-148x148.jpg",
-      "Color": "#ff959595"
+      "Color": "#ff959595",
+      "BlurHash": "K3NdO8-;~q-;j[%M~qt7D%"
     },
     {
       "Id": "texture_geometric_07",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_07.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 269973,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_07-148x148.jpg",
-      "Color": "#fff2f1f1"
+      "Color": "#fff2f1f1",
+      "BlurHash": "K1S$ov~qfQ~qj[fQoffQj["
     },
     {
       "Id": "texture_geometric_08",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_08.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 201011,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_08-148x148.jpg",
-      "Color": "#ff868685"
+      "Color": "#ff868685",
+      "BlurHash": "K0MHJi~qj]~qj[az-;j[fQ"
     },
     {
       "Id": "texture_geometric_09",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_09.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 136259,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/geometric/texture_geometric_09-148x148.jpg",
-      "Color": "#ffa2c0c9"
+      "Color": "#ffa2c0c9",
+      "BlurHash": "KAOEI[S~~V%2xYxuM{Ip9Z"
     }
   ],
   "Layout": {

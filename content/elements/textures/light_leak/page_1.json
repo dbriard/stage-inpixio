@@ -7,65 +7,92 @@
     {
       "Id": "texture_lightleak_01",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/texture_lightleak_01.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 709821,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/texture_lightleak_01-148x148.jpg",
-      "Color": "#ff380702"
+      "Color": "#ff380702",
+      "BlurHash": "KqGF%I0~-T=xM}XRxZniW;"
     },
     {
       "Id": "texture_lightleak_02",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/texture_lightleak_02.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 134887,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/texture_lightleak_02-148x148.jpg",
-      "Color": "#ff7497cc"
+      "Color": "#ff7497cc",
+      "BlurHash": "KnLhri_R-3L0En:mxBKgbH"
     },
     {
       "Id": "texture_lightleak_03",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/texture_lightleak_03.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 246723,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/texture_lightleak_03-148x148.jpg",
-      "Color": "#ff302d4c"
+      "Color": "#ff302d4c",
+      "BlurHash": "KoF$6l}t}[?btQxuo|SzSe"
     },
     {
       "Id": "texture_lightleak_04",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/texture_lightleak_04.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 99381,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/texture_lightleak_04-148x148.jpg",
-      "Color": "#ff5b161a"
+      "Color": "#ff5b161a",
+      "BlurHash": "KgIe#J}GNGj[jtfQfQfQfQ"
     },
     {
       "Id": "texture_lightleak_05",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/texture_lightleak_05.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 84331,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/texture_lightleak_05-148x148.jpg",
-      "Color": "#ff470707"
+      "Color": "#ff470707",
+      "BlurHash": "KuG}%9WpfQ{}bHfQv~jZfQ"
     },
     {
       "Id": "texture_lightleak_06",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/texture_lightleak_06.jpg",
+      "Width": 1500,
+      "Height": 1500,
       "FileSize": 211123,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/texture_lightleak_06-148x148.jpg",
-      "Color": "#ffd15d64"
+      "Color": "#ffd15d64",
+      "BlurHash": "KaQZ{H02JQ5ROEWC4pTHt6"
     },
     {
       "Id": "texture_lightleak_07",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/texture_lightleak_07.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 385169,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/texture_lightleak_07-148x148.jpg",
-      "Color": "#ffd8cace"
+      "Color": "#ffd8cace",
+      "BlurHash": "K9Ro:ES4}@?ayCS1?^WF9G"
     },
     {
       "Id": "texture_lightleak_08",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/texture_lightleak_08.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 262945,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/texture_lightleak_08-148x148.jpg",
-      "Color": "#ff893610"
+      "Color": "#ff893610",
+      "BlurHash": "KbMEye-%nN~SovxB9iIr%0"
     },
     {
       "Id": "texture_lightleak_09",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/texture_lightleak_09.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 339966,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/light_leak/texture_lightleak_09-148x148.jpg",
-      "Color": "#ff4c160b"
+      "Color": "#ff4c160b",
+      "BlurHash": "KUHl-q^P-o0#xFni-okVNv"
     }
   ],
   "Layout": {

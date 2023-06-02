@@ -10,8 +10,8 @@
       "Width": 1000,
       "Height": 224,
       "FileSize": 1291,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/banner_01-148x52.png",
-      "Color": "#854b6069"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/banner_01-148x71.png",
+      "Color": "#3350696e"
     },
     {
       "Id": "banner_02",
@@ -19,8 +19,8 @@
       "Width": 1000,
       "Height": 214,
       "FileSize": 1807,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/banner_02-148x51.png",
-      "Color": "#6b5b6e77"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/banner_02-148x70.png",
+      "Color": "#245c717f"
     },
     {
       "Id": "banner_03",
@@ -28,8 +28,8 @@
       "Width": 1000,
       "Height": 230,
       "FileSize": 2434,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/banner_03-148x53.png",
-      "Color": "#60586d75"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/banner_03-148x72.png",
+      "Color": "#255a6e75"
     },
     {
       "Id": "banner_04",
@@ -37,8 +37,8 @@
       "Width": 1000,
       "Height": 163,
       "FileSize": 998,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/banner_04-148x45.png",
-      "Color": "#7a566b75"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/banner_04-148x65.png",
+      "Color": "#2755696f"
     },
     {
       "Id": "banner_05",
@@ -46,8 +46,8 @@
       "Width": 1000,
       "Height": 267,
       "FileSize": 935,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/banner_05-148x57.png",
-      "Color": "#612d424c"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/banner_05-148x76.png",
+      "Color": "#25293e4c"
     },
     {
       "Id": "banner_06",
@@ -55,8 +55,8 @@
       "Width": 1000,
       "Height": 204,
       "FileSize": 890,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/banner_06-148x50.png",
-      "Color": "#76304752"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/banner_06-148x69.png",
+      "Color": "#2c2e4051"
     },
     {
       "Id": "banner_07",
@@ -64,8 +64,8 @@
       "Width": 1000,
       "Height": 131,
       "FileSize": 863,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/banner_07-148x41.png",
-      "Color": "#5e5a6f77"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/banner_07-148x62.png",
+      "Color": "#3860727b"
     },
     {
       "Id": "banner_08",
@@ -73,8 +73,8 @@
       "Width": 976,
       "Height": 1000,
       "FileSize": 1096,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/banner_08-145x148.png",
-      "Color": "#80c7cdcf"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/banner_08-146x148.png",
+      "Color": "#54c5cbce"
     },
     {
       "Id": "banner_09",
@@ -82,8 +82,8 @@
       "Width": 319,
       "Height": 1000,
       "FileSize": 463,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/banner_09-64x148.png",
-      "Color": "#7cf7f9f9"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/banners/banner_09-81x148.png",
+      "Color": "#51f6f9f9"
     }
   ],
   "Layout": {

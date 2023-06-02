@@ -10,8 +10,8 @@
       "Width": 1000,
       "Height": 72,
       "FileSize": 4578,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/line_01-148x34.png",
-      "Color": "#05ffffff"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/line_01-148x56.png",
+      "Color": "#03ffffff"
     },
     {
       "Id": "line_02",
@@ -19,8 +19,8 @@
       "Width": 1000,
       "Height": 15,
       "FileSize": 2781,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/line_02-148x26.png",
-      "Color": "#0dffffff"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/line_02-148x51.png",
+      "Color": "#04ffffff"
     },
     {
       "Id": "line_03",
@@ -28,8 +28,8 @@
       "Width": 1000,
       "Height": 8,
       "FileSize": 264,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/line_03-148x26.png",
-      "Color": "#0effffff"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/line_03-148x50.png",
+      "Color": "#03ffffff"
     },
     {
       "Id": "line_04",
@@ -37,8 +37,8 @@
       "Width": 1000,
       "Height": 36,
       "FileSize": 1026,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/line_04-148x29.png",
-      "Color": "#0bffffff"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/line_04-148x53.png",
+      "Color": "#04ffffff"
     },
     {
       "Id": "line_05",
@@ -46,8 +46,8 @@
       "Width": 1000,
       "Height": 29,
       "FileSize": 671,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/line_05-148x28.png",
-      "Color": "#07ffffff"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/line_05-148x52.png",
+      "Color": "#02ffffff"
     },
     {
       "Id": "line_06",
@@ -55,8 +55,8 @@
       "Width": 1000,
       "Height": 59,
       "FileSize": 702,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/line_06-148x32.png",
-      "Color": "#10ffffff"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/line_06-148x55.png",
+      "Color": "#0affffff"
     },
     {
       "Id": "line_07",
@@ -64,8 +64,8 @@
       "Width": 1000,
       "Height": 36,
       "FileSize": 1027,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/line_07-148x29.png",
-      "Color": "#0bffffff"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/line_07-148x53.png",
+      "Color": "#04ffffff"
     },
     {
       "Id": "line_08",
@@ -73,8 +73,8 @@
       "Width": 1000,
       "Height": 47,
       "FileSize": 1405,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/line_08-148x30.png",
-      "Color": "#0affffff"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/line_08-148x54.png",
+      "Color": "#03ffffff"
     },
     {
       "Id": "line_09",
@@ -82,8 +82,8 @@
       "Width": 1000,
       "Height": 28,
       "FileSize": 693,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/line_09-148x27.png",
-      "Color": "#07ffffff"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/lines/line_09-148x52.png",
+      "Color": "#02ffffff"
     }
   ],
   "Layout": {

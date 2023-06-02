@@ -11,7 +11,7 @@
       "Height": 1000,
       "FileSize": 7316,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/sport_01-147x148.png",
-      "Color": "#40af9fb7"
+      "Color": "#29ae9bb4"
     },
     {
       "Id": "sport_02",
@@ -19,8 +19,8 @@
       "Width": 1000,
       "Height": 833,
       "FileSize": 6840,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/sport_02-148x127.png",
-      "Color": "#56b8a0b5"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/sport_02-148x132.png",
+      "Color": "#27b19db1"
     },
     {
       "Id": "sport_03",
@@ -28,8 +28,8 @@
       "Width": 1000,
       "Height": 833,
       "FileSize": 5358,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/sport_03-148x127.png",
-      "Color": "#57b0a7bf"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/sport_03-148x132.png",
+      "Color": "#28a6a6b9"
     },
     {
       "Id": "sport_04",
@@ -37,8 +37,8 @@
       "Width": 1000,
       "Height": 833,
       "FileSize": 6770,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/sport_04-148x127.png",
-      "Color": "#54b69eb0"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/sport_04-148x132.png",
+      "Color": "#26ae9aae"
     },
     {
       "Id": "sport_05",
@@ -46,8 +46,8 @@
       "Width": 1000,
       "Height": 859,
       "FileSize": 6452,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/sport_05-148x130.png",
-      "Color": "#4aa5b7cf"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/sport_05-148x135.png",
+      "Color": "#2fa8b8ce"
     },
     {
       "Id": "sport_06",
@@ -55,8 +55,8 @@
       "Width": 1000,
       "Height": 833,
       "FileSize": 5452,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/sport_06-148x127.png",
-      "Color": "#55b4a2b4"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/sport_06-148x132.png",
+      "Color": "#27aa9db1"
     },
     {
       "Id": "sport_07",
@@ -64,8 +64,8 @@
       "Width": 1000,
       "Height": 833,
       "FileSize": 7758,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/sport_07-148x127.png",
-      "Color": "#55b4a2b7"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/sport_07-148x132.png",
+      "Color": "#26ae9aae"
     },
     {
       "Id": "sport_08",
@@ -73,8 +73,8 @@
       "Width": 1000,
       "Height": 833,
       "FileSize": 13977,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/sport_08-148x127.png",
-      "Color": "#5eb3a8be"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/sport_08-148x132.png",
+      "Color": "#2aaaa4b6"
     },
     {
       "Id": "sport_09",
@@ -82,8 +82,8 @@
       "Width": 1000,
       "Height": 833,
       "FileSize": 6896,
-      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/sport_09-148x127.png",
-      "Color": "#66b2b4cb"
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/cliparts/sports/sport_09-148x132.png",
+      "Color": "#2caea2b9"
     }
   ],
   "Layout": {

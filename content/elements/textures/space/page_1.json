@@ -7,16 +7,22 @@
     {
       "Id": "texture_space_01",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/space/texture_space_01.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 529653,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/space/texture_space_01-148x148.jpg",
-      "Color": "#ff1d122c"
+      "Color": "#ff1d122c",
+      "BlurHash": "KZB.]GRP?Keng2WAISX8M_"
     },
     {
       "Id": "texture_space_02",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/space/texture_space_02.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 180041,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/space/texture_space_02-148x148.jpg",
-      "Color": "#ff220c16"
+      "Color": "#ff220c16",
+      "BlurHash": "KRC5b?K4^S#RRjr=0xoLE1"
     }
   ],
   "Layout": {

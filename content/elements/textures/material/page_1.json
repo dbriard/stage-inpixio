@@ -7,44 +7,62 @@
     {
       "Id": "texture_material_01",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_01.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 1848068,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_01-148x148.jpg",
-      "Color": "#ffc5c5c5"
+      "Color": "#ffc5c5c5",
+      "BlurHash": "K7QmCr_3~qxuIUM{-;ofRj"
     },
     {
       "Id": "texture_material_02",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_02.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 224232,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_02-148x148.jpg",
-      "Color": "#ff9b7627"
+      "Color": "#ff9b7627",
+      "BlurHash": "KSNvePxaM}~mspM|t5j=WC"
     },
     {
       "Id": "texture_material_03",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_03.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 481163,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_03-148x148.jpg",
-      "Color": "#ffabadb1"
+      "Color": "#ffabadb1",
+      "BlurHash": "K4OzV%~pD*~pj?%MofIUWV"
     },
     {
       "Id": "texture_material_04",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_04.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 426675,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_04-148x148.jpg",
-      "Color": "#ff8e8b88"
+      "Color": "#ff8e8b88",
+      "BlurHash": "K3M@cb%fWB%2WBxu_3j?Rj"
     },
     {
       "Id": "texture_material_05",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_05.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 516994,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_05-148x148.jpg",
-      "Color": "#ff9d9c9b"
+      "Color": "#ff9d9c9b",
+      "BlurHash": "K1N,_C^%w?~WWBWCadRjWB"
     },
     {
       "Id": "texture_material_06",
       "Url": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_06.jpg",
+      "Width": 2048,
+      "Height": 2048,
       "FileSize": 349867,
       "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/elements/textures/material/texture_material_06-148x148.jpg",
-      "Color": "#ff767676"
+      "Color": "#ff767676",
+      "BlurHash": "K00000fQfQfQfQfQfQfQfQ"
     }
   ],
   "Layout": {
