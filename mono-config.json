@@ -221,10 +221,6 @@
     },
     {
       "behavior": "assembly",
-      "name": "Pixabay.Models.dll"
-    },
-    {
-      "behavior": "assembly",
       "name": "ReactiveUI.dll"
     },
     {
