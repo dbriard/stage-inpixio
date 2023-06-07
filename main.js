@@ -1,8 +1,8 @@
 // Licensed to the .NET Foundation under one or more agreements.
 // The .NET Foundation licenses this file to you under the MIT license.
 
-import {dotnet} from './dotnet.js'
-import {environment} from './environment.js'
+import { dotnet } from './dotnet.js'
+import { environment } from './environment.js'
 
 const is_browser = typeof window != "undefined";
 if (!is_browser) throw new Error(`Expected to be running in a browser`);
@@ -16,8 +16,22 @@ const config = dotnetRuntime.getConfig();
 
 let latestPaste = undefined;
 if (navigator.userAgent.indexOf("Firefox") != -1) {
-    window.addEventListener("paste", e => {latestPaste = e.clipboardData.getData("text"); alert(latestPaste);});
+    window.addEventListener("paste", e => { latestPaste = e.clipboardData.getData("text"); alert(latestPaste); });
 }
+
+const exports = await dotnetRuntime.getAssemblyExports(config.mainAssemblyName);
+
+window.addEventListener('beforeunload', (event) => {
+    console.log("beforeUnload")
+    exports.InPixioLabs.Web.Interop.Save.SaveSettings();
+});
+
+const terminationEvent = 'onpagehide' in self ? 'pagehide' : 'unload';
+console.log(terminationEvent)
+window.addEventListener(terminationEvent, (event) => {
+    console.log("terminationEvent")
+    exports.InPixioLabs.Web.Interop.Save.SaveSettings();
+});
 
 /*
 
