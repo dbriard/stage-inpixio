@@ -1,0 +1,32 @@
+{
+  "Title": "Demo",
+  "ElementType": 7,
+  "Translations": [
+    {
+      "Language": "fr",
+      "Title": "D\u00E9mo"
+    }
+  ],
+  "Total": 1,
+  "PerPage": 25,
+  "Results": [
+    {
+      "Id": "Text 01",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/texts/demo/text_01.json",
+      "Width": 285,
+      "Height": 203,
+      "FileSize": 1175,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/texts/demo/text_01-148x105.png",
+      "Color": "#ffcccccc",
+      "Data": "{\r\n   \u0022$type\u0022:\u0022text\u0022,\r\n   \u0022Text\u0022:\u0022NEW POST\u0022,\r\n   \u0022Foreground\u0022:\u0022Black\u0022,\r\n   \u0022OutlineColor\u0022:\u0022Black\u0022,\r\n   \u0022FontSize\u0022:42.666666666666664,\r\n   \u0022OutlineRatio\u0022:0.5,\r\n   \u0022TextAlignment\u0022:1,\r\n   \u0022TextWrapping\u0022:1,\r\n   \u0022Font\u0022:{\r\n      \u0022Family\u0022:\u0022Angkor\u0022,\r\n      \u0022Variants\u0022:[\r\n         \u0022regular\u0022\r\n      ],\r\n      \u0022Subsets\u0022:[\r\n         \u0022khmer\u0022,\r\n         \u0022latin\u0022\r\n      ],\r\n      \u0022Version\u0022:\u0022v28\u0022,\r\n      \u0022LastModified\u0022:\u00222022-04-20T00:00:00\u0022,\r\n      \u0022Kind\u0022:\u0022webfonts#webfont\u0022,\r\n      \u0022Menu\u0022:\u0022http://fonts.gstatic.com/s/angkor/v28/H4cmBXyAlsPdnlbO8yY6.ttf\u0022,\r\n      \u0022Files\u0022:{\r\n         \u0022regular\u0022:\u0022http://fonts.gstatic.com/s/angkor/v28/H4cmBXyAlsPdnlb-8iw-4Lqggw.ttf\u0022\r\n      },\r\n      \u0022Category\u0022:\u0022display\u0022\r\n   },\r\n   \u0022BlurRadius\u0022:5,\r\n   \u0022IsShadowEnabled\u0022:true,\r\n   \u0022ShadowColor\u0022:\u0022#3d000000\u0022,\r\n   \u0022ShadowBlur\u0022:7.065574771068138,\r\n   \u0022ShadowAngle\u0022:89.70499007428288,\r\n   \u0022ShadowDepth\u0022:5,\r\n   \u0022Width\u0022:190.304,\r\n   \u0022Height\u0022:142.358,\r\n   \u0022RenderTransform\u0022:{\r\n      \u0022ScaleX\u0022:1,\r\n      \u0022ScaleY\u0022:1,\r\n      \u0022TranslationX\u0022:147.736,\r\n      \u0022TranslationY\u0022:187.235\r\n   },\r\n   \u0022Opacity\u0022:0.5,\r\n   \u0022RenderTransformOrigin\u0022:\u00220.5, 0.5\u0022,\r\n   \u0022Children\u0022:[\r\n      \r\n   ],\r\n   \u0022IsVisible\u0022:true,\r\n   \u0022Name\u0022:\u0022Text 2\u0022\r\n}"
+    }
+  ],
+  "Layout": {
+    "LayoutId": "UniformGridLayout",
+    "Orientation": 0,
+    "MaximumRowsOrColumns": 3,
+    "MinItemWidth": 96,
+    "MinItemHeight": 96
+  },
+  "Featured": 12
+}
