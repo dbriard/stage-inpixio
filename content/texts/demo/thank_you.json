@@ -1,0 +1,51 @@
+{
+          "$type": "text",
+          "Text": "Thank you",
+          "Foreground": "#fff23e3e",
+          "IsOutlineEnabled": true,
+          "OutlineColor": "#fffbf2f2",
+          "FontSize": 35,
+          "OutlineRatio": 0.23278688651616455,
+          "TextAlignment": 1,
+          "TextWrapping": 1,
+          "Font": {
+            "Family": "Bungee Shade",
+            "Variants": [
+              "regular"
+            ],
+            "Subsets": [
+              "latin",
+              "latin-ext",
+              "vietnamese"
+            ],
+            "Version": "v11",
+            "LastModified": "2022-09-22T00:00:00",
+            "Kind": "webfonts#webfont",
+            "Menu": "http://fonts.gstatic.com/s/bungeeshade/v11/DtVkJxarWL0t2KdzK3oI_jkc7yjW.ttf",
+            "Files": {
+              "regular": "http://fonts.gstatic.com/s/bungeeshade/v11/DtVkJxarWL0t2KdzK3oI_jks7iLSrwFUlw.ttf"
+            },
+            "Category": "display"
+          },
+          "BlurRadius": 5,
+          "IsShadowEnabled": true,
+          "ShadowColor": "#66000000",
+          "ShadowBlur": 5,
+          "ShadowAngle": 45,
+          "ShadowDepth": 2.8688524590163933,
+          "Width": 256.559,
+          "Height": 51.19,
+          "RenderTransform": {
+            "ScaleX": 1,
+            "ScaleY": 1,
+            "RotationAngle": -0.537,
+            "TranslationX": 97.56,
+            "TranslationY": 209.595
+          },
+          "Opacity": 0.5,
+          "RenderTransformOrigin": "0.5, 0.5",
+          "Children": [],
+          "IsVisible": true,
+          "Name": "Text 2"
+        }
+        
