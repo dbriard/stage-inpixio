@@ -105,10 +105,6 @@
     },
     {
       "behavior": "assembly",
-      "name": "Microsoft.CSharp.dll"
-    },
-    {
-      "behavior": "assembly",
       "name": "Microsoft.Extensions.Configuration.Abstractions.dll"
     },
     {
@@ -217,10 +213,6 @@
     },
     {
       "behavior": "assembly",
-      "name": "Newtonsoft.Json.dll"
-    },
-    {
-      "behavior": "assembly",
       "name": "ReactiveUI.dll"
     },
     {
@@ -286,10 +278,6 @@
     {
       "behavior": "assembly",
       "name": "System.Console.dll"
-    },
-    {
-      "behavior": "assembly",
-      "name": "System.Data.Common.dll"
     },
     {
       "behavior": "assembly",
@@ -377,10 +365,6 @@
     },
     {
       "behavior": "assembly",
-      "name": "System.Private.Xml.Linq.dll"
-    },
-    {
-      "behavior": "assembly",
       "name": "System.Reactive.dll"
     },
     {
@@ -390,10 +374,6 @@
     {
       "behavior": "assembly",
       "name": "System.Runtime.Numerics.dll"
-    },
-    {
-      "behavior": "assembly",
-      "name": "System.Runtime.Serialization.Formatters.dll"
     },
     {
       "behavior": "assembly",
@@ -425,7 +405,7 @@
     },
     {
       "behavior": "assembly",
-      "name": "System.Xml.Linq.dll"
+      "name": "Topten.RichTextKit.dll"
     },
     {
       "culture": "fr",
