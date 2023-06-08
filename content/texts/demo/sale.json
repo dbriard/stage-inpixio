@@ -1,0 +1,46 @@
+{
+  "$type": "text",
+  "Text": "SALE",
+  "Foreground": "#ff3c8abb",
+  "OutlineColor": "#ff885555",
+  "FontSize": 83.91225510369512,
+  "OutlineRatio": 0.17745901775531103,
+  "TextAlignment": 1,
+  "TextWrapping": 1,
+  "Font": {
+    "Family": "Rampart One",
+    "Variants": [
+      "regular"
+    ],
+    "Subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+    ],
+    "Version": "v7",
+    "LastModified": "2022-09-27T00:00:00",
+    "Kind": "webfonts#webfont",
+    "Menu": "http://fonts.gstatic.com/s/rampartone/v7/K2F1fZFGl_JSR1tAWNG9R5qhJyo.ttf",
+    "Files": {
+      "regular": "http://fonts.gstatic.com/s/rampartone/v7/K2F1fZFGl_JSR1tAWNG9R6qgLS76ZHOM.ttf"
+    },
+    "Category": "display"
+  },
+  "BlurRadius": 5,
+  "ShadowColor": "#66bebebe",
+  "ShadowBlur": 5,
+  "ShadowAngle": -16.229508196721298,
+  "ShadowDepth": 5.327868852459016,
+  "Width": 231.038,
+  "Height": 105.136,
+  "RenderTransform": {
+    "ScaleX": 1,
+    "ScaleY": 1
+  },
+  "Opacity": 0.5,
+  "RenderTransformOrigin": "0.5, 0.5",
+  "Children": [],
+  "IsVisible": true,
+  "Name": "Text 5"
+}

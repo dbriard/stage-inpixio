@@ -1,0 +1,43 @@
+{
+  "$type": "text",
+  "Text": "Horror \r\nparty",
+  "Foreground": "#ffef0004",
+  "OutlineColor": "#ff885555",
+  "FontSize": 44.875731268791455,
+  "OutlineRatio": 0.17745901775531103,
+  "TextWrapping": 1,
+  "Font": {
+    "Family": "Nosifer",
+    "Variants": [
+      "regular"
+    ],
+    "Subsets": [
+      "latin",
+      "latin-ext"
+    ],
+    "Version": "v20",
+    "LastModified": "2022-09-22T00:00:00",
+    "Kind": "webfonts#webfont",
+    "Menu": "http://fonts.gstatic.com/s/nosifer/v20/ZGjXol5JTp0g5bxZWCxbUA.ttf",
+    "Files": {
+      "regular": "http://fonts.gstatic.com/s/nosifer/v20/ZGjXol5JTp0g5bxZaC1RVDNdGDs.ttf"
+    },
+    "Category": "display"
+  },
+  "BlurRadius": 5,
+  "ShadowColor": "#66bebebe",
+  "ShadowBlur": 5,
+  "ShadowAngle": -16.229508196721298,
+  "ShadowDepth": 5.327868852459016,
+  "Width": 283.82,
+  "Height": 150.066,
+  "RenderTransform": {
+    "ScaleX": 1,
+    "ScaleY": 1
+  },
+  "Opacity": 0.5,
+  "RenderTransformOrigin": "0.5, 0.5",
+  "Children": [],
+  "IsVisible": true,
+  "Name": "Text 5"
+}

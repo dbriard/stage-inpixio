@@ -1,0 +1,46 @@
+{
+  "$type": "text",
+  "Text": "Sparkle",
+  "Foreground": "#20f5e800",
+  "IsOutlineEnabled": true,
+  "OutlineColor": "#a5ebec33",
+  "FontSize": 73.51920392581894,
+  "OutlineRatio": 0.7831147544574547,
+  "TextAlignment": 1,
+  "TextWrapping": 1,
+  "Font": {
+    "Family": "Aguafina Script",
+    "Variants": [
+      "regular"
+    ],
+    "Subsets": [
+      "latin",
+      "latin-ext"
+    ],
+    "Version": "v17",
+    "LastModified": "2023-05-02T00:00:00",
+    "Kind": "webfonts#webfont",
+    "Menu": "http://fonts.gstatic.com/s/aguafinascript/v17/If2QXTv_ZzSxGIO30LemWEOmt1b3q8Qt.ttf",
+    "Files": {
+      "regular": "http://fonts.gstatic.com/s/aguafinascript/v17/If2QXTv_ZzSxGIO30LemWEOmt1bHqs4pgicOrg.ttf"
+    },
+    "Category": "handwriting"
+  },
+  "BlurRadius": 5,
+  "IsShadowEnabled": true,
+  "ShadowColor": "#b1fdef9d",
+  "ShadowBlur": 10,
+  "ShadowAngle": -27.147540983606632,
+  "ShadowDepth": 14.590163934426212,
+  "Width": 231.038,
+  "Height": 127.5,
+  "RenderTransform": {
+    "ScaleX": 1,
+    "ScaleY": 1
+  },
+  "Opacity": 0.5,
+  "RenderTransformOrigin": "0.5, 0.5",
+  "Children": [],
+  "IsVisible": true,
+  "Name": "Text 11"
+}

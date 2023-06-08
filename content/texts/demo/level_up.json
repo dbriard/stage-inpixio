@@ -1,0 +1,51 @@
+{
+  "$type": "text",
+  "Text": "LEVEL UP",
+  "Foreground": "#ff256855",
+  "IsOutlineEnabled": true,
+  "OutlineColor": "#4ff7f7f7",
+  "FontSize": 63.98057831598462,
+  "OutlineRatio": 0.45557377139320193,
+  "TextAlignment": 1,
+  "TextWrapping": 1,
+  "Font": {
+    "Family": "Rowdies",
+    "Variants": [
+      "300",
+      "regular",
+      "700"
+    ],
+    "Subsets": [
+      "latin",
+      "latin-ext",
+      "vietnamese"
+    ],
+    "Version": "v15",
+    "LastModified": "2022-09-22T00:00:00",
+    "Kind": "webfonts#webfont",
+    "Menu": "http://fonts.gstatic.com/s/rowdies/v15/ptRJTieMYPNBAK21_rZDxA.ttf",
+    "Files": {
+      "300": "http://fonts.gstatic.com/s/rowdies/v15/ptRMTieMYPNBAK219hth5O7yKQNute8.ttf",
+      "regular": "http://fonts.gstatic.com/s/rowdies/v15/ptRJTieMYPNBAK21zrdJwObZNQo.ttf",
+      "700": "http://fonts.gstatic.com/s/rowdies/v15/ptRMTieMYPNBAK219gtm5O7yKQNute8.ttf"
+    },
+    "Category": "display"
+  },
+  "BlurRadius": 5,
+  "IsShadowEnabled": true,
+  "ShadowColor": "#66000000",
+  "ShadowBlur": 1.131147540983605,
+  "ShadowAngle": -2.360655737704718,
+  "ShadowDepth": 4.426229508196721,
+  "Width": 348.741,
+  "Height": 78.875,
+  "RenderTransform": {
+    "ScaleX": 1,
+    "ScaleY": 1
+  },
+  "Opacity": 0.5,
+  "RenderTransformOrigin": "0.5, 0.5",
+  "Children": [],
+  "IsVisible": true,
+  "Name": "Text 5"
+}
