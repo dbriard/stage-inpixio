@@ -1,0 +1,121 @@
+[
+  {
+    "Title": "Demo",
+    "ElementType": 7,
+    "Translations": [
+      {
+        "Language": "fr",
+        "Title": "D\u00E9mo"
+      }
+    ],
+    "Total": 9,
+    "PerPage": 25,
+    "Results": [
+      {
+        "Id": "Cactus",
+        "Url": "https://dbriard.github.io/stage-inpixio/content/texts/demo/cactus.json",
+        "Width": 347.806,
+        "Height": 105.136,
+        "FileSize": 1240,
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/texts/demo/cactus-148x45.png",
+        "Color": "#bd329b65",
+        "Data": "{\r\n  \u0022$type\u0022: \u0022text\u0022,\r\n  \u0022Text\u0022: \u0022Cactus\u0022,\r\n  \u0022Foreground\u0022: \u0022#ff49e84d\u0022,\r\n  \u0022IsOutlineEnabled\u0022: true,\r\n  \u0022OutlineColor\u0022: \u0022#ff20487e\u0022,\r\n  \u0022FontSize\u0022: 70.23524228049111,\r\n  \u0022OutlineRatio\u0022: 0.5086885254036209,\r\n  \u0022TextAlignment\u0022: 1,\r\n  \u0022TextWrapping\u0022: 1,\r\n  \u0022Font\u0022: {\r\n    \u0022Family\u0022: \u0022Rubik Beastly\u0022,\r\n    \u0022Variants\u0022: [\r\n      \u0022regular\u0022\r\n    ],\r\n    \u0022Subsets\u0022: [\r\n      \u0022cyrillic\u0022,\r\n      \u0022cyrillic-ext\u0022,\r\n      \u0022hebrew\u0022,\r\n      \u0022latin\u0022,\r\n      \u0022latin-ext\u0022\r\n    ],\r\n    \u0022Version\u0022: \u0022v10\u0022,\r\n    \u0022LastModified\u0022: \u00222022-09-22T00:00:00\u0022,\r\n    \u0022Kind\u0022: \u0022webfonts#webfont\u0022,\r\n    \u0022Menu\u0022: \u0022http://fonts.gstatic.com/s/rubikbeastly/v10/0QImMXRd5oOmSC2ZQ7o9653X4732-A.ttf\u0022,\r\n    \u0022Files\u0022: {\r\n      \u0022regular\u0022: \u0022http://fonts.gstatic.com/s/rubikbeastly/v10/0QImMXRd5oOmSC2ZQ7o9653X07z8_ApHqqk.ttf\u0022\r\n    },\r\n    \u0022Category\u0022: \u0022display\u0022\r\n  },\r\n  \u0022BlurRadius\u0022: 1.8114754098360843,\r\n  \u0022IsShadowEnabled\u0022: true,\r\n  \u0022ShadowColor\u0022: \u0022#660017ff\u0022,\r\n  \u0022ShadowBlur\u0022: 5,\r\n  \u0022ShadowAngle\u0022: -5.9016393442622075,\r\n  \u0022ShadowDepth\u0022: 8.360655737704976,\r\n  \u0022Width\u0022: 347.806,\r\n  \u0022Height\u0022: 105.136,\r\n  \u0022RenderTransform\u0022: {\r\n    \u0022ScaleX\u0022: 1,\r\n    \u0022ScaleY\u0022: 1\r\n  },\r\n  \u0022Opacity\u0022: 0.5,\r\n  \u0022RenderTransformOrigin\u0022: \u00220.5, 0.5\u0022,\r\n  \u0022Children\u0022: [],\r\n  \u0022IsVisible\u0022: true,\r\n  \u0022Name\u0022: \u0022Text 14\u0022\r\n}"
+      },
+      {
+        "Id": "Horror Party",
+        "Url": "https://dbriard.github.io/stage-inpixio/content/texts/demo/horror_party.json",
+        "Width": 283.82,
+        "Height": 150.066,
+        "FileSize": 1062,
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/texts/demo/horror_party-148x79.png",
+        "Color": "#3ae90000",
+        "Data": "{\r\n  \u0022$type\u0022: \u0022text\u0022,\r\n  \u0022Text\u0022: \u0022Horror \\r\\nparty\u0022,\r\n  \u0022Foreground\u0022: \u0022#ffef0004\u0022,\r\n  \u0022OutlineColor\u0022: \u0022#ff885555\u0022,\r\n  \u0022FontSize\u0022: 44.875731268791455,\r\n  \u0022OutlineRatio\u0022: 0.17745901775531103,\r\n  \u0022TextWrapping\u0022: 1,\r\n  \u0022Font\u0022: {\r\n    \u0022Family\u0022: \u0022Nosifer\u0022,\r\n    \u0022Variants\u0022: [\r\n      \u0022regular\u0022\r\n    ],\r\n    \u0022Subsets\u0022: [\r\n      \u0022latin\u0022,\r\n      \u0022latin-ext\u0022\r\n    ],\r\n    \u0022Version\u0022: \u0022v20\u0022,\r\n    \u0022LastModified\u0022: \u00222022-09-22T00:00:00\u0022,\r\n    \u0022Kind\u0022: \u0022webfonts#webfont\u0022,\r\n    \u0022Menu\u0022: \u0022http://fonts.gstatic.com/s/nosifer/v20/ZGjXol5JTp0g5bxZWCxbUA.ttf\u0022,\r\n    \u0022Files\u0022: {\r\n      \u0022regular\u0022: \u0022http://fonts.gstatic.com/s/nosifer/v20/ZGjXol5JTp0g5bxZaC1RVDNdGDs.ttf\u0022\r\n    },\r\n    \u0022Category\u0022: \u0022display\u0022\r\n  },\r\n  \u0022BlurRadius\u0022: 5,\r\n  \u0022ShadowColor\u0022: \u0022#66bebebe\u0022,\r\n  \u0022ShadowBlur\u0022: 5,\r\n  \u0022ShadowAngle\u0022: -16.229508196721298,\r\n  \u0022ShadowDepth\u0022: 5.327868852459016,\r\n  \u0022Width\u0022: 283.82,\r\n  \u0022Height\u0022: 150.066,\r\n  \u0022RenderTransform\u0022: {\r\n    \u0022ScaleX\u0022: 1,\r\n    \u0022ScaleY\u0022: 1\r\n  },\r\n  \u0022Opacity\u0022: 0.5,\r\n  \u0022RenderTransformOrigin\u0022: \u00220.5, 0.5\u0022,\r\n  \u0022Children\u0022: [],\r\n  \u0022IsVisible\u0022: true,\r\n  \u0022Name\u0022: \u0022Text 5\u0022\r\n}"
+      },
+      {
+        "Id": "Level Up",
+        "Url": "https://dbriard.github.io/stage-inpixio/content/texts/demo/level_up.json",
+        "Width": 348.741,
+        "Height": 78.875,
+        "FileSize": 1381,
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/texts/demo/level_up-148x34.png",
+        "Color": "#66467869",
+        "Data": "{\r\n  \u0022$type\u0022: \u0022text\u0022,\r\n  \u0022Text\u0022: \u0022LEVEL UP\u0022,\r\n  \u0022Foreground\u0022: \u0022#ff256855\u0022,\r\n  \u0022IsOutlineEnabled\u0022: true,\r\n  \u0022OutlineColor\u0022: \u0022#4ff7f7f7\u0022,\r\n  \u0022FontSize\u0022: 63.98057831598462,\r\n  \u0022OutlineRatio\u0022: 0.45557377139320193,\r\n  \u0022TextAlignment\u0022: 1,\r\n  \u0022TextWrapping\u0022: 1,\r\n  \u0022Font\u0022: {\r\n    \u0022Family\u0022: \u0022Rowdies\u0022,\r\n    \u0022Variants\u0022: [\r\n      \u0022300\u0022,\r\n      \u0022regular\u0022,\r\n      \u0022700\u0022\r\n    ],\r\n    \u0022Subsets\u0022: [\r\n      \u0022latin\u0022,\r\n      \u0022latin-ext\u0022,\r\n      \u0022vietnamese\u0022\r\n    ],\r\n    \u0022Version\u0022: \u0022v15\u0022,\r\n    \u0022LastModified\u0022: \u00222022-09-22T00:00:00\u0022,\r\n    \u0022Kind\u0022: \u0022webfonts#webfont\u0022,\r\n    \u0022Menu\u0022: \u0022http://fonts.gstatic.com/s/rowdies/v15/ptRJTieMYPNBAK21_rZDxA.ttf\u0022,\r\n    \u0022Files\u0022: {\r\n      \u0022300\u0022: \u0022http://fonts.gstatic.com/s/rowdies/v15/ptRMTieMYPNBAK219hth5O7yKQNute8.ttf\u0022,\r\n      \u0022regular\u0022: \u0022http://fonts.gstatic.com/s/rowdies/v15/ptRJTieMYPNBAK21zrdJwObZNQo.ttf\u0022,\r\n      \u0022700\u0022: \u0022http://fonts.gstatic.com/s/rowdies/v15/ptRMTieMYPNBAK219gtm5O7yKQNute8.ttf\u0022\r\n    },\r\n    \u0022Category\u0022: \u0022display\u0022\r\n  },\r\n  \u0022BlurRadius\u0022: 5,\r\n  \u0022IsShadowEnabled\u0022: true,\r\n  \u0022ShadowColor\u0022: \u0022#66000000\u0022,\r\n  \u0022ShadowBlur\u0022: 1.131147540983605,\r\n  \u0022ShadowAngle\u0022: -2.360655737704718,\r\n  \u0022ShadowDepth\u0022: 4.426229508196721,\r\n  \u0022Width\u0022: 348.741,\r\n  \u0022Height\u0022: 78.875,\r\n  \u0022RenderTransform\u0022: {\r\n    \u0022ScaleX\u0022: 1,\r\n    \u0022ScaleY\u0022: 1\r\n  },\r\n  \u0022Opacity\u0022: 0.5,\r\n  \u0022RenderTransformOrigin\u0022: \u00220.5, 0.5\u0022,\r\n  \u0022Children\u0022: [],\r\n  \u0022IsVisible\u0022: true,\r\n  \u0022Name\u0022: \u0022Text 5\u0022\r\n}"
+      },
+      {
+        "Id": "New Post",
+        "Url": "https://dbriard.github.io/stage-inpixio/content/texts/demo/new_post.json",
+        "Width": 172.995,
+        "Height": 147.399,
+        "FileSize": 1070,
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/texts/demo/new_post-148x127.png",
+        "Color": "#42000000",
+        "Data": "{\r\n  \u0022$type\u0022: \u0022text\u0022,\r\n  \u0022Text\u0022: \u0022NEW POST\u0022,\r\n  \u0022Foreground\u0022: \u0022Black\u0022,\r\n  \u0022OutlineColor\u0022: \u0022Black\u0022,\r\n  \u0022FontSize\u0022: 42.666666666666664,\r\n  \u0022OutlineRatio\u0022: 0.5,\r\n  \u0022TextAlignment\u0022: 1,\r\n  \u0022TextWrapping\u0022: 1,\r\n  \u0022Font\u0022: {\r\n    \u0022Family\u0022: \u0022Angkor\u0022,\r\n    \u0022Variants\u0022: [\r\n      \u0022regular\u0022\r\n    ],\r\n    \u0022Subsets\u0022: [\r\n      \u0022khmer\u0022,\r\n      \u0022latin\u0022\r\n    ],\r\n    \u0022Version\u0022: \u0022v28\u0022,\r\n    \u0022LastModified\u0022: \u00222022-04-20T00:00:00\u0022,\r\n    \u0022Kind\u0022: \u0022webfonts#webfont\u0022,\r\n    \u0022Menu\u0022: \u0022http://fonts.gstatic.com/s/angkor/v28/H4cmBXyAlsPdnlbO8yY6.ttf\u0022,\r\n    \u0022Files\u0022: {\r\n      \u0022regular\u0022: \u0022http://fonts.gstatic.com/s/angkor/v28/H4cmBXyAlsPdnlb-8iw-4Lqggw.ttf\u0022\r\n    },\r\n    \u0022Category\u0022: \u0022display\u0022\r\n  },\r\n  \u0022BlurRadius\u0022: 5,\r\n  \u0022IsShadowEnabled\u0022: true,\r\n  \u0022ShadowColor\u0022: \u0022#3d000000\u0022,\r\n  \u0022ShadowBlur\u0022: 7.065574771068138,\r\n  \u0022ShadowAngle\u0022: 89.70499007428288,\r\n  \u0022ShadowDepth\u0022: 5,\r\n  \u0022Width\u0022: 172.995,\r\n  \u0022Height\u0022: 147.399,\r\n  \u0022RenderTransform\u0022: {\r\n    \u0022ScaleX\u0022: 1,\r\n    \u0022ScaleY\u0022: 1\r\n  },\r\n  \u0022Opacity\u0022: 0.5,\r\n  \u0022RenderTransformOrigin\u0022: \u00220.5, 0.5\u0022,\r\n  \u0022Children\u0022: [],\r\n  \u0022IsVisible\u0022: true,\r\n  \u0022Name\u0022: \u0022Text 2\u0022\r\n}"
+      },
+      {
+        "Id": "Sale",
+        "Url": "https://dbriard.github.io/stage-inpixio/content/texts/demo/sale.json",
+        "Width": 231.038,
+        "Height": 105.136,
+        "FileSize": 1128,
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/texts/demo/sale-148x68.png",
+        "Color": "#2c3485b9",
+        "Data": "{\r\n  \u0022$type\u0022: \u0022text\u0022,\r\n  \u0022Text\u0022: \u0022SALE\u0022,\r\n  \u0022Foreground\u0022: \u0022#ff3c8abb\u0022,\r\n  \u0022OutlineColor\u0022: \u0022#ff885555\u0022,\r\n  \u0022FontSize\u0022: 83.91225510369512,\r\n  \u0022OutlineRatio\u0022: 0.17745901775531103,\r\n  \u0022TextAlignment\u0022: 1,\r\n  \u0022TextWrapping\u0022: 1,\r\n  \u0022Font\u0022: {\r\n    \u0022Family\u0022: \u0022Rampart One\u0022,\r\n    \u0022Variants\u0022: [\r\n      \u0022regular\u0022\r\n    ],\r\n    \u0022Subsets\u0022: [\r\n      \u0022cyrillic\u0022,\r\n      \u0022japanese\u0022,\r\n      \u0022latin\u0022,\r\n      \u0022latin-ext\u0022\r\n    ],\r\n    \u0022Version\u0022: \u0022v7\u0022,\r\n    \u0022LastModified\u0022: \u00222022-09-27T00:00:00\u0022,\r\n    \u0022Kind\u0022: \u0022webfonts#webfont\u0022,\r\n    \u0022Menu\u0022: \u0022http://fonts.gstatic.com/s/rampartone/v7/K2F1fZFGl_JSR1tAWNG9R5qhJyo.ttf\u0022,\r\n    \u0022Files\u0022: {\r\n      \u0022regular\u0022: \u0022http://fonts.gstatic.com/s/rampartone/v7/K2F1fZFGl_JSR1tAWNG9R6qgLS76ZHOM.ttf\u0022\r\n    },\r\n    \u0022Category\u0022: \u0022display\u0022\r\n  },\r\n  \u0022BlurRadius\u0022: 5,\r\n  \u0022ShadowColor\u0022: \u0022#66bebebe\u0022,\r\n  \u0022ShadowBlur\u0022: 5,\r\n  \u0022ShadowAngle\u0022: -16.229508196721298,\r\n  \u0022ShadowDepth\u0022: 5.327868852459016,\r\n  \u0022Width\u0022: 231.038,\r\n  \u0022Height\u0022: 105.136,\r\n  \u0022RenderTransform\u0022: {\r\n    \u0022ScaleX\u0022: 1,\r\n    \u0022ScaleY\u0022: 1\r\n  },\r\n  \u0022Opacity\u0022: 0.5,\r\n  \u0022RenderTransformOrigin\u0022: \u00220.5, 0.5\u0022,\r\n  \u0022Children\u0022: [],\r\n  \u0022IsVisible\u0022: true,\r\n  \u0022Name\u0022: \u0022Text 5\u0022\r\n}"
+      },
+      {
+        "Id": "Soir\u00E9e sp\u00E9ciale",
+        "Url": "https://dbriard.github.io/stage-inpixio/content/texts/demo/soir\u00E9e_sp\u00E9ciale.json",
+        "Width": 246.69,
+        "Height": 242.694,
+        "FileSize": 1124,
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/texts/demo/soir\u00E9e_sp\u00E9ciale-148x146.png",
+        "Color": "#0c000000",
+        "Data": "{\r\n  \u0022$type\u0022: \u0022text\u0022,\r\n  \u0022Text\u0022: \u0022Jeudi 8 octobre a 19h -  Soiree Speciale - \u0022,\r\n  \u0022Foreground\u0022: \u0022Black\u0022,\r\n  \u0022OutlineColor\u0022: \u0022Black\u0022,\r\n  \u0022FontSize\u0022: 60.842438490870194,\r\n  \u0022OutlineRatio\u0022: 0.5,\r\n  \u0022TextAlignment\u0022: 3,\r\n  \u0022TextWrapping\u0022: 1,\r\n  \u0022Font\u0022: {\r\n    \u0022Family\u0022: \u0022Hi Melody\u0022,\r\n    \u0022Variants\u0022: [\r\n      \u0022regular\u0022\r\n    ],\r\n    \u0022Subsets\u0022: [\r\n      \u0022korean\u0022,\r\n      \u0022latin\u0022\r\n    ],\r\n    \u0022Version\u0022: \u0022v13\u0022,\r\n    \u0022LastModified\u0022: \u00222022-09-27T00:00:00\u0022,\r\n    \u0022Kind\u0022: \u0022webfonts#webfont\u0022,\r\n    \u0022Menu\u0022: \u0022http://fonts.gstatic.com/s/himelody/v13/46ktlbP8Vnz0pJcqCTb0fmVA.ttf\u0022,\r\n    \u0022Files\u0022: {\r\n      \u0022regular\u0022: \u0022http://fonts.gstatic.com/s/himelody/v13/46ktlbP8Vnz0pJcqCTbEf29E31BBGA.ttf\u0022\r\n    },\r\n    \u0022Category\u0022: \u0022handwriting\u0022\r\n  },\r\n  \u0022BlurRadius\u0022: 5,\r\n  \u0022IsShadowEnabled\u0022: true,\r\n  \u0022ShadowColor\u0022: \u0022#3d000000\u0022,\r\n  \u0022ShadowBlur\u0022: 7.065574771068138,\r\n  \u0022ShadowAngle\u0022: 89.70499007428288,\r\n  \u0022ShadowDepth\u0022: 5,\r\n  \u0022Width\u0022: 246.69,\r\n  \u0022Height\u0022: 242.694,\r\n  \u0022RenderTransform\u0022: {\r\n    \u0022ScaleX\u0022: 1,\r\n    \u0022ScaleY\u0022: 1\r\n  },\r\n  \u0022Opacity\u0022: 0.5,\r\n  \u0022RenderTransformOrigin\u0022: \u00220.5, 0.5\u0022,\r\n  \u0022Children\u0022: [],\r\n  \u0022IsVisible\u0022: true,\r\n  \u0022Name\u0022: \u0022Text 2\u0022\r\n}"
+      },
+      {
+        "Id": "Sparkle",
+        "Url": "https://dbriard.github.io/stage-inpixio/content/texts/demo/sparkle.json",
+        "Width": 231.038,
+        "Height": 127.5,
+        "FileSize": 1180,
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/texts/demo/sparkle-148x82.png",
+        "Color": "#3fefeb49",
+        "Data": "{\r\n  \u0022$type\u0022: \u0022text\u0022,\r\n  \u0022Text\u0022: \u0022Sparkle\u0022,\r\n  \u0022Foreground\u0022: \u0022#20f5e800\u0022,\r\n  \u0022IsOutlineEnabled\u0022: true,\r\n  \u0022OutlineColor\u0022: \u0022#a5ebec33\u0022,\r\n  \u0022FontSize\u0022: 73.51920392581894,\r\n  \u0022OutlineRatio\u0022: 0.7831147544574547,\r\n  \u0022TextAlignment\u0022: 1,\r\n  \u0022TextWrapping\u0022: 1,\r\n  \u0022Font\u0022: {\r\n    \u0022Family\u0022: \u0022Aguafina Script\u0022,\r\n    \u0022Variants\u0022: [\r\n      \u0022regular\u0022\r\n    ],\r\n    \u0022Subsets\u0022: [\r\n      \u0022latin\u0022,\r\n      \u0022latin-ext\u0022\r\n    ],\r\n    \u0022Version\u0022: \u0022v17\u0022,\r\n    \u0022LastModified\u0022: \u00222023-05-02T00:00:00\u0022,\r\n    \u0022Kind\u0022: \u0022webfonts#webfont\u0022,\r\n    \u0022Menu\u0022: \u0022http://fonts.gstatic.com/s/aguafinascript/v17/If2QXTv_ZzSxGIO30LemWEOmt1b3q8Qt.ttf\u0022,\r\n    \u0022Files\u0022: {\r\n      \u0022regular\u0022: \u0022http://fonts.gstatic.com/s/aguafinascript/v17/If2QXTv_ZzSxGIO30LemWEOmt1bHqs4pgicOrg.ttf\u0022\r\n    },\r\n    \u0022Category\u0022: \u0022handwriting\u0022\r\n  },\r\n  \u0022BlurRadius\u0022: 5,\r\n  \u0022IsShadowEnabled\u0022: true,\r\n  \u0022ShadowColor\u0022: \u0022#b1fdef9d\u0022,\r\n  \u0022ShadowBlur\u0022: 10,\r\n  \u0022ShadowAngle\u0022: -27.147540983606632,\r\n  \u0022ShadowDepth\u0022: 14.590163934426212,\r\n  \u0022Width\u0022: 231.038,\r\n  \u0022Height\u0022: 127.5,\r\n  \u0022RenderTransform\u0022: {\r\n    \u0022ScaleX\u0022: 1,\r\n    \u0022ScaleY\u0022: 1\r\n  },\r\n  \u0022Opacity\u0022: 0.5,\r\n  \u0022RenderTransformOrigin\u0022: \u00220.5, 0.5\u0022,\r\n  \u0022Children\u0022: [],\r\n  \u0022IsVisible\u0022: true,\r\n  \u0022Name\u0022: \u0022Text 11\u0022\r\n}"
+      },
+      {
+        "Id": "Thank you",
+        "Url": "https://dbriard.github.io/stage-inpixio/content/texts/demo/thank_you.json",
+        "Width": 406.159,
+        "Height": 77.588,
+        "FileSize": 1167,
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/texts/demo/thank_you-148x28.png",
+        "Color": "#b3f2b3b3",
+        "Data": "{\r\n  \u0022$type\u0022: \u0022text\u0022,\r\n  \u0022Text\u0022: \u0022Thank you!\u0022,\r\n  \u0022Foreground\u0022: \u0022#fff23e3e\u0022,\r\n  \u0022IsOutlineEnabled\u0022: true,\r\n  \u0022OutlineColor\u0022: \u0022#fffbf2f2\u0022,\r\n  \u0022FontSize\u0022: 51.300994022121586,\r\n  \u0022OutlineRatio\u0022: 0.23278688651616455,\r\n  \u0022TextAlignment\u0022: 1,\r\n  \u0022TextWrapping\u0022: 1,\r\n  \u0022Font\u0022: {\r\n    \u0022Family\u0022: \u0022Bungee Shade\u0022,\r\n    \u0022Variants\u0022: [\r\n      \u0022regular\u0022\r\n    ],\r\n    \u0022Subsets\u0022: [\r\n      \u0022latin\u0022,\r\n      \u0022latin-ext\u0022,\r\n      \u0022vietnamese\u0022\r\n    ],\r\n    \u0022Version\u0022: \u0022v11\u0022,\r\n    \u0022LastModified\u0022: \u00222022-09-22T00:00:00\u0022,\r\n    \u0022Kind\u0022: \u0022webfonts#webfont\u0022,\r\n    \u0022Menu\u0022: \u0022http://fonts.gstatic.com/s/bungeeshade/v11/DtVkJxarWL0t2KdzK3oI_jkc7yjW.ttf\u0022,\r\n    \u0022Files\u0022: {\r\n      \u0022regular\u0022: \u0022http://fonts.gstatic.com/s/bungeeshade/v11/DtVkJxarWL0t2KdzK3oI_jks7iLSrwFUlw.ttf\u0022\r\n    },\r\n    \u0022Category\u0022: \u0022display\u0022\r\n  },\r\n  \u0022BlurRadius\u0022: 5,\r\n  \u0022IsShadowEnabled\u0022: true,\r\n  \u0022ShadowColor\u0022: \u0022#66000000\u0022,\r\n  \u0022ShadowBlur\u0022: 5,\r\n  \u0022ShadowAngle\u0022: 45,\r\n  \u0022ShadowDepth\u0022: 2.8688524590163933,\r\n  \u0022Width\u0022: 406.159,\r\n  \u0022Height\u0022: 77.588,\r\n  \u0022RenderTransform\u0022: {\r\n    \u0022ScaleX\u0022: 1,\r\n    \u0022ScaleY\u0022: 1\r\n  },\r\n  \u0022Opacity\u0022: 0.5,\r\n  \u0022RenderTransformOrigin\u0022: \u00220.5, 0.5\u0022,\r\n  \u0022Children\u0022: [],\r\n  \u0022IsVisible\u0022: true,\r\n  \u0022Name\u0022: \u0022Text 2\u0022\r\n}"
+      },
+      {
+        "Id": "XOXO",
+        "Url": "https://dbriard.github.io/stage-inpixio/content/texts/demo/xoxo.json",
+        "Width": 452.41,
+        "Height": 145.998,
+        "FileSize": 1067,
+        "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/texts/demo/xoxo-148x48.png",
+        "Color": "#713d6f6f",
+        "Data": "{\r\n  \u0022$type\u0022: \u0022text\u0022,\r\n  \u0022Text\u0022: \u0022XOXO\u0022,\r\n  \u0022Foreground\u0022: \u0022Black\u0022,\r\n  \u0022IsOutlineEnabled\u0022: true,\r\n  \u0022OutlineColor\u0022: \u0022#ff93f2ff\u0022,\r\n  \u0022FontSize\u0022: 114.51475372561049,\r\n  \u0022OutlineRatio\u0022: 0.10000000149011612,\r\n  \u0022TextWrapping\u0022: 1,\r\n  \u0022Font\u0022: {\r\n    \u0022Family\u0022: \u0022Monoton\u0022,\r\n    \u0022Variants\u0022: [\r\n      \u0022regular\u0022\r\n    ],\r\n    \u0022Subsets\u0022: [\r\n      \u0022latin\u0022\r\n    ],\r\n    \u0022Version\u0022: \u0022v15\u0022,\r\n    \u0022LastModified\u0022: \u00222022-09-22T00:00:00\u0022,\r\n    \u0022Kind\u0022: \u0022webfonts#webfont\u0022,\r\n    \u0022Menu\u0022: \u0022http://fonts.gstatic.com/s/monoton/v15/5h1aiZUrOngCibe4TkfLRw.ttf\u0022,\r\n    \u0022Files\u0022: {\r\n      \u0022regular\u0022: \u0022http://fonts.gstatic.com/s/monoton/v15/5h1aiZUrOngCibe4fkbBQ2S7FU8.ttf\u0022\r\n    },\r\n    \u0022Category\u0022: \u0022display\u0022\r\n  },\r\n  \u0022BlurRadius\u0022: 5,\r\n  \u0022IsShadowEnabled\u0022: true,\r\n  \u0022ShadowColor\u0022: \u0022#66359c5a\u0022,\r\n  \u0022ShadowBlur\u0022: 6.606557377049185,\r\n  \u0022ShadowAngle\u0022: 45,\r\n  \u0022ShadowDepth\u0022: 5,\r\n  \u0022Width\u0022: 452.41,\r\n  \u0022Height\u0022: 145.998,\r\n  \u0022RenderTransform\u0022: {\r\n    \u0022ScaleX\u0022: 1,\r\n    \u0022ScaleY\u0022: 1\r\n  },\r\n  \u0022Opacity\u0022: 0.5,\r\n  \u0022RenderTransformOrigin\u0022: \u00220.5, 0.5\u0022,\r\n  \u0022Children\u0022: [],\r\n  \u0022IsVisible\u0022: true,\r\n  \u0022Name\u0022: \u0022Text 12\u0022\r\n}"
+      }
+    ],
+    "Layout": {
+      "LayoutId": "UniformGridLayout",
+      "Orientation": 0,
+      "MaximumRowsOrColumns": 2,
+      "MinItemWidth": 148,
+      "MinItemHeight": 96
+    },
+    "PageLayout": {
+      "LayoutId": "UniformGridLayout",
+      "Orientation": 0,
+      "MaximumRowsOrColumns": 2,
+      "MinItemWidth": 96,
+      "MinItemHeight": 148
+    },
+    "Featured": 12
+  }
+]

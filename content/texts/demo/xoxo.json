@@ -1,0 +1,44 @@
+{
+  "$type": "text",
+  "Text": "XOXO",
+  "Foreground": "Black",
+  "IsOutlineEnabled": true,
+  "OutlineColor": "#ff93f2ff",
+  "FontSize": 114.51475372561049,
+  "OutlineRatio": 0.10000000149011612,
+  "TextWrapping": 1,
+  "Font": {
+    "Family": "Monoton",
+    "Variants": [
+      "regular"
+    ],
+    "Subsets": [
+      "latin"
+    ],
+    "Version": "v15",
+    "LastModified": "2022-09-22T00:00:00",
+    "Kind": "webfonts#webfont",
+    "Menu": "http://fonts.gstatic.com/s/monoton/v15/5h1aiZUrOngCibe4TkfLRw.ttf",
+    "Files": {
+      "regular": "http://fonts.gstatic.com/s/monoton/v15/5h1aiZUrOngCibe4fkbBQ2S7FU8.ttf"
+    },
+    "Category": "display"
+  },
+  "BlurRadius": 5,
+  "IsShadowEnabled": true,
+  "ShadowColor": "#66359c5a",
+  "ShadowBlur": 6.606557377049185,
+  "ShadowAngle": 45,
+  "ShadowDepth": 5,
+  "Width": 452.41,
+  "Height": 145.998,
+  "RenderTransform": {
+    "ScaleX": 1,
+    "ScaleY": 1
+  },
+  "Opacity": 0.5,
+  "RenderTransformOrigin": "0.5, 0.5",
+  "Children": [],
+  "IsVisible": true,
+  "Name": "Text 12"
+}

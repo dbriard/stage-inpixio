@@ -1,0 +1,45 @@
+{
+  "$type": "text",
+  "Text": "NEW POST",
+  "Foreground": "Black",
+  "OutlineColor": "Black",
+  "FontSize": 42.666666666666664,
+  "OutlineRatio": 0.5,
+  "TextAlignment": 1,
+  "TextWrapping": 1,
+  "Font": {
+    "Family": "Angkor",
+    "Variants": [
+      "regular"
+    ],
+    "Subsets": [
+      "khmer",
+      "latin"
+    ],
+    "Version": "v28",
+    "LastModified": "2022-04-20T00:00:00",
+    "Kind": "webfonts#webfont",
+    "Menu": "http://fonts.gstatic.com/s/angkor/v28/H4cmBXyAlsPdnlbO8yY6.ttf",
+    "Files": {
+      "regular": "http://fonts.gstatic.com/s/angkor/v28/H4cmBXyAlsPdnlb-8iw-4Lqggw.ttf"
+    },
+    "Category": "display"
+  },
+  "BlurRadius": 5,
+  "IsShadowEnabled": true,
+  "ShadowColor": "#3d000000",
+  "ShadowBlur": 7.065574771068138,
+  "ShadowAngle": 89.70499007428288,
+  "ShadowDepth": 5,
+  "Width": 172.995,
+  "Height": 147.399,
+  "RenderTransform": {
+    "ScaleX": 1,
+    "ScaleY": 1
+  },
+  "Opacity": 0.5,
+  "RenderTransformOrigin": "0.5, 0.5",
+  "Children": [],
+  "IsVisible": true,
+  "Name": "Text 2"
+}

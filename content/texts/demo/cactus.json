@@ -1,0 +1,49 @@
+{
+  "$type": "text",
+  "Text": "Cactus",
+  "Foreground": "#ff49e84d",
+  "IsOutlineEnabled": true,
+  "OutlineColor": "#ff20487e",
+  "FontSize": 70.23524228049111,
+  "OutlineRatio": 0.5086885254036209,
+  "TextAlignment": 1,
+  "TextWrapping": 1,
+  "Font": {
+    "Family": "Rubik Beastly",
+    "Variants": [
+      "regular"
+    ],
+    "Subsets": [
+      "cyrillic",
+      "cyrillic-ext",
+      "hebrew",
+      "latin",
+      "latin-ext"
+    ],
+    "Version": "v10",
+    "LastModified": "2022-09-22T00:00:00",
+    "Kind": "webfonts#webfont",
+    "Menu": "http://fonts.gstatic.com/s/rubikbeastly/v10/0QImMXRd5oOmSC2ZQ7o9653X4732-A.ttf",
+    "Files": {
+      "regular": "http://fonts.gstatic.com/s/rubikbeastly/v10/0QImMXRd5oOmSC2ZQ7o9653X07z8_ApHqqk.ttf"
+    },
+    "Category": "display"
+  },
+  "BlurRadius": 1.8114754098360843,
+  "IsShadowEnabled": true,
+  "ShadowColor": "#660017ff",
+  "ShadowBlur": 5,
+  "ShadowAngle": -5.9016393442622075,
+  "ShadowDepth": 8.360655737704976,
+  "Width": 347.806,
+  "Height": 105.136,
+  "RenderTransform": {
+    "ScaleX": 1,
+    "ScaleY": 1
+  },
+  "Opacity": 0.5,
+  "RenderTransformOrigin": "0.5, 0.5",
+  "Children": [],
+  "IsVisible": true,
+  "Name": "Text 14"
+}
