@@ -49,15 +49,7 @@
     },
     {
       "behavior": "assembly",
-      "name": "Avalonia.ReactiveUI.dll"
-    },
-    {
-      "behavior": "assembly",
       "name": "Avalonia.Skia.dll"
-    },
-    {
-      "behavior": "assembly",
-      "name": "Avalonia.Svg.dll"
     },
     {
       "behavior": "assembly",
@@ -90,6 +82,10 @@
     {
       "behavior": "assembly",
       "name": "InPixio.Core.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "InPixio.Imaging.dll"
     },
     {
       "behavior": "assembly",
@@ -213,10 +209,6 @@
     },
     {
       "behavior": "assembly",
-      "name": "ReactiveUI.dll"
-    },
-    {
-      "behavior": "assembly",
       "name": "Serilog.dll"
     },
     {
@@ -226,10 +218,6 @@
     {
       "behavior": "assembly",
       "name": "SkiaSharp.dll"
-    },
-    {
-      "behavior": "assembly",
-      "name": "Splat.dll"
     },
     {
       "behavior": "assembly",
@@ -365,19 +353,11 @@
     },
     {
       "behavior": "assembly",
-      "name": "System.Reactive.dll"
-    },
-    {
-      "behavior": "assembly",
       "name": "System.Runtime.InteropServices.JavaScript.dll"
     },
     {
       "behavior": "assembly",
       "name": "System.Runtime.Numerics.dll"
-    },
-    {
-      "behavior": "assembly",
-      "name": "System.Runtime.Serialization.Primitives.dll"
     },
     {
       "behavior": "assembly",

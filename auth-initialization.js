@@ -1,5 +1,8 @@
-// In case we are in the login flow, this code must be run in the broswer popup.
-// So, we have to save "code" parameter we get from the auth service and then close the popup.
+/**
+ * In case we are in the login flow, this code must be run in the broswer popup.
+ * So, we have to save "code" parameter we get from the auth service and then close the popup.
+ */
+
 const queryParams = new Proxy(new URLSearchParams(window.location.search), {
     get: (searchParams, prop) => searchParams.get(prop)
 })
