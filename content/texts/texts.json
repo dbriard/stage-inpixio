@@ -84,8 +84,8 @@
     ],
     "Layout": {
       "LayoutId": "UniformGridLayout",
-      "Orientation": 1,
-      "MaximumRowsOrColumns": 1,
+      "Orientation": 0,
+      "MaximumRowsOrColumns": 2,
       "MinItemWidth": 148,
       "MinItemHeight": 96
     },
@@ -93,8 +93,8 @@
       "LayoutId": "UniformGridLayout",
       "Orientation": 0,
       "MaximumRowsOrColumns": 2,
-      "MinItemWidth": 96,
-      "MinItemHeight": 148
+      "MinItemWidth": 148,
+      "MinItemHeight": 96
     },
     "Featured": 12
   }
