@@ -1,0 +1,47 @@
+{
+  "$type": "text",
+  "Text": "REMISE SPECIALE - DUREE LIMITEE - ",
+  "Foreground": "#fff81515",
+  "IsOutlineEnabled": true,
+  "OutlineColor": "#ffedd1d1",
+  "FontSize": 28.18072085757359,
+  "OutlineRatio": 0.5,
+  "TextAlignment": 3,
+  "TextWrapping": 1,
+  "Font": {
+    "Family": "Hi Melody",
+    "Variants": [
+      "regular"
+    ],
+    "Subsets": [
+      "korean",
+      "latin"
+    ],
+    "Version": "v13",
+    "LastModified": "2022-09-27T00:00:00",
+    "Kind": "webfonts#webfont",
+    "Menu": "http://fonts.gstatic.com/s/himelody/v13/46ktlbP8Vnz0pJcqCTb0fmVA.ttf",
+    "Files": {
+      "regular": "http://fonts.gstatic.com/s/himelody/v13/46ktlbP8Vnz0pJcqCTbEf29E31BBGA.ttf"
+    },
+    "Category": "handwriting"
+  },
+  "BlurRadius": 5,
+  "ShadowColor": "#3d000000",
+  "ShadowBlur": 7.065574771068138,
+  "ShadowAngle": 89.70499007428288,
+  "ShadowDepth": 5,
+  "Width": 150.693,
+  "Height": 140.879,
+  "RenderTransform": {
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "TranslationX": -1.288,
+    "TranslationY": 0.669
+  },
+  "Opacity": 0.5,
+  "RenderTransformOrigin": "0.5, 0.5",
+  "Children": [],
+  "IsVisible": true,
+  "Name": "Text 2"
+}

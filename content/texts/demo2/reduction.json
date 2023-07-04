@@ -1,0 +1,46 @@
+{
+  "$type": "text",
+  "Text": "REDUCTION",
+  "Foreground": "Black",
+  "IsOutlineEnabled": true,
+  "OutlineColor": "#ff93f2ff",
+  "FontSize": 37.80339258558012,
+  "OutlineRatio": 0.10000000149011612,
+  "TextWrapping": 1,
+  "Font": {
+    "Family": "Monoton",
+    "Variants": [
+      "regular"
+    ],
+    "Subsets": [
+      "latin"
+    ],
+    "Version": "v15",
+    "LastModified": "2022-09-22T00:00:00",
+    "Kind": "webfonts#webfont",
+    "Menu": "http://fonts.gstatic.com/s/monoton/v15/5h1aiZUrOngCibe4TkfLRw.ttf",
+    "Files": {
+      "regular": "http://fonts.gstatic.com/s/monoton/v15/5h1aiZUrOngCibe4fkbBQ2S7FU8.ttf"
+    },
+    "Category": "display"
+  },
+  "BlurRadius": 5,
+  "IsShadowEnabled": true,
+  "ShadowColor": "#66359c5a",
+  "ShadowBlur": 6.606557377049185,
+  "ShadowAngle": 45,
+  "ShadowDepth": 5,
+  "Width": 272.148,
+  "Height": 54.013,
+  "RenderTransform": {
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "TranslationX": 1.45,
+    "TranslationY": 0.039
+  },
+  "Opacity": 0.5,
+  "RenderTransformOrigin": "0.5, 0.5",
+  "Children": [],
+  "IsVisible": true,
+  "Name": "Text 12"
+}

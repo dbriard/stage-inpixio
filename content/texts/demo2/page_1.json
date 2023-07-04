@@ -1,0 +1,92 @@
+{
+  "Title": "Demo",
+  "ElementType": 7,
+  "Translations": [
+    {
+      "Language": "fr",
+      "Title": "D\u00E9mo"
+    }
+  ],
+  "Total": 7,
+  "PerPage": 25,
+  "Results": [
+    {
+      "Id": "baisse_de_prix",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/texts/demo2/baisse_de_prix.json",
+      "Width": 326.769,
+      "Height": 110.812,
+      "FileSize": 1233,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/texts/demo2/baisse_de_prix-148x50.png",
+      "Color": "#3ef3ea46",
+      "Data": "{\r\n  \u0022$type\u0022: \u0022text\u0022,\r\n  \u0022Text\u0022: \u0022Baisse de prix !\u0022,\r\n  \u0022Foreground\u0022: \u0022#20f5e800\u0022,\r\n  \u0022IsOutlineEnabled\u0022: true,\r\n  \u0022OutlineColor\u0022: \u0022#a5ebec33\u0022,\r\n  \u0022FontSize\u0022: 61,\r\n  \u0022OutlineRatio\u0022: 0.7831147544574547,\r\n  \u0022TextAlignment\u0022: 1,\r\n  \u0022TextWrapping\u0022: 1,\r\n  \u0022Font\u0022: {\r\n    \u0022Family\u0022: \u0022Aguafina Script\u0022,\r\n    \u0022Variants\u0022: [\r\n      \u0022regular\u0022\r\n    ],\r\n    \u0022Subsets\u0022: [\r\n      \u0022latin\u0022,\r\n      \u0022latin-ext\u0022\r\n    ],\r\n    \u0022Version\u0022: \u0022v17\u0022,\r\n    \u0022LastModified\u0022: \u00222023-05-02T00:00:00\u0022,\r\n    \u0022Kind\u0022: \u0022webfonts#webfont\u0022,\r\n    \u0022Menu\u0022: \u0022http://fonts.gstatic.com/s/aguafinascript/v17/If2QXTv_ZzSxGIO30LemWEOmt1b3q8Qt.ttf\u0022,\r\n    \u0022Files\u0022: {\r\n      \u0022regular\u0022: \u0022http://fonts.gstatic.com/s/aguafinascript/v17/If2QXTv_ZzSxGIO30LemWEOmt1bHqs4pgicOrg.ttf\u0022\r\n    },\r\n    \u0022Category\u0022: \u0022handwriting\u0022\r\n  },\r\n  \u0022BlurRadius\u0022: 5,\r\n  \u0022IsShadowEnabled\u0022: true,\r\n  \u0022ShadowColor\u0022: \u0022#b1fdef9d\u0022,\r\n  \u0022ShadowBlur\u0022: 10,\r\n  \u0022ShadowAngle\u0022: -27.147540983606632,\r\n  \u0022ShadowDepth\u0022: 14.590163934426212,\r\n  \u0022Width\u0022: 326.769,\r\n  \u0022Height\u0022: 110.812,\r\n  \u0022RenderTransform\u0022: {\r\n    \u0022ScaleX\u0022: 1,\r\n    \u0022ScaleY\u0022: 1,\r\n    \u0022TranslationX\u0022: 0.755,\r\n    \u0022TranslationY\u0022: -0.439\r\n  },\r\n  \u0022Opacity\u0022: 0.5,\r\n  \u0022RenderTransformOrigin\u0022: \u00220.5, 0.5\u0022,\r\n  \u0022Children\u0022: [],\r\n  \u0022IsVisible\u0022: true,\r\n  \u0022Name\u0022: \u0022Text 11\u0022\r\n}"
+    },
+    {
+      "Id": "comme_neuf",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/texts/demo2/comme_neuf.json",
+      "Width": 277.154,
+      "Height": 63.135,
+      "FileSize": 1426,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/texts/demo2/comme_neuf-148x34.png",
+      "Color": "#45467367",
+      "Data": "{\r\n  \u0022$type\u0022: \u0022text\u0022,\r\n  \u0022Text\u0022: \u0022Comme neuf !\u0022,\r\n  \u0022Foreground\u0022: \u0022#ff256855\u0022,\r\n  \u0022IsOutlineEnabled\u0022: true,\r\n  \u0022OutlineColor\u0022: \u0022#4ff7f7f7\u0022,\r\n  \u0022FontSize\u0022: 39,\r\n  \u0022OutlineRatio\u0022: 0.45557377139320193,\r\n  \u0022TextAlignment\u0022: 1,\r\n  \u0022TextWrapping\u0022: 1,\r\n  \u0022Font\u0022: {\r\n    \u0022Family\u0022: \u0022Rowdies\u0022,\r\n    \u0022Variants\u0022: [\r\n      \u0022300\u0022,\r\n      \u0022regular\u0022,\r\n      \u0022700\u0022\r\n    ],\r\n    \u0022Subsets\u0022: [\r\n      \u0022latin\u0022,\r\n      \u0022latin-ext\u0022,\r\n      \u0022vietnamese\u0022\r\n    ],\r\n    \u0022Version\u0022: \u0022v15\u0022,\r\n    \u0022LastModified\u0022: \u00222022-09-22T00:00:00\u0022,\r\n    \u0022Kind\u0022: \u0022webfonts#webfont\u0022,\r\n    \u0022Menu\u0022: \u0022http://fonts.gstatic.com/s/rowdies/v15/ptRJTieMYPNBAK21_rZDxA.ttf\u0022,\r\n    \u0022Files\u0022: {\r\n      \u0022300\u0022: \u0022http://fonts.gstatic.com/s/rowdies/v15/ptRMTieMYPNBAK219hth5O7yKQNute8.ttf\u0022,\r\n      \u0022regular\u0022: \u0022http://fonts.gstatic.com/s/rowdies/v15/ptRJTieMYPNBAK21zrdJwObZNQo.ttf\u0022,\r\n      \u0022700\u0022: \u0022http://fonts.gstatic.com/s/rowdies/v15/ptRMTieMYPNBAK219gtm5O7yKQNute8.ttf\u0022\r\n    },\r\n    \u0022Category\u0022: \u0022display\u0022\r\n  },\r\n  \u0022BlurRadius\u0022: 5,\r\n  \u0022IsShadowEnabled\u0022: true,\r\n  \u0022ShadowColor\u0022: \u0022#66000000\u0022,\r\n  \u0022ShadowBlur\u0022: 1.131147540983605,\r\n  \u0022ShadowAngle\u0022: -2.360655737704718,\r\n  \u0022ShadowDepth\u0022: 4.426229508196721,\r\n  \u0022Width\u0022: 277.154,\r\n  \u0022Height\u0022: 63.135,\r\n  \u0022RenderTransform\u0022: {\r\n    \u0022ScaleX\u0022: 1,\r\n    \u0022ScaleY\u0022: 1,\r\n    \u0022TranslationX\u0022: 2.737,\r\n    \u0022TranslationY\u0022: 0.346\r\n  },\r\n  \u0022Opacity\u0022: 0.5,\r\n  \u0022RenderTransformOrigin\u0022: \u00220.5, 0.5\u0022,\r\n  \u0022Children\u0022: [],\r\n  \u0022IsVisible\u0022: true,\r\n  \u0022Name\u0022: \u0022Text 5\u0022\r\n}"
+    },
+    {
+      "Id": "discount",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/texts/demo2/discount.json",
+      "Width": 220.024,
+      "Height": 64,
+      "FileSize": 1178,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/texts/demo2/discount-148x43.png",
+      "Color": "#9befaeae",
+      "Data": "{\r\n  \u0022$type\u0022: \u0022text\u0022,\r\n  \u0022Text\u0022: \u0022DISCOUNT\u0022,\r\n  \u0022Foreground\u0022: \u0022#fff23e3e\u0022,\r\n  \u0022IsOutlineEnabled\u0022: true,\r\n  \u0022OutlineColor\u0022: \u0022#fffbf2f2\u0022,\r\n  \u0022FontSize\u0022: 35,\r\n  \u0022OutlineRatio\u0022: 0.23278688651616455,\r\n  \u0022TextWrapping\u0022: 1,\r\n  \u0022Font\u0022: {\r\n    \u0022Family\u0022: \u0022Bungee Shade\u0022,\r\n    \u0022Variants\u0022: [\r\n      \u0022regular\u0022\r\n    ],\r\n    \u0022Subsets\u0022: [\r\n      \u0022latin\u0022,\r\n      \u0022latin-ext\u0022,\r\n      \u0022vietnamese\u0022\r\n    ],\r\n    \u0022Version\u0022: \u0022v11\u0022,\r\n    \u0022LastModified\u0022: \u00222022-09-22T00:00:00\u0022,\r\n    \u0022Kind\u0022: \u0022webfonts#webfont\u0022,\r\n    \u0022Menu\u0022: \u0022http://fonts.gstatic.com/s/bungeeshade/v11/DtVkJxarWL0t2KdzK3oI_jkc7yjW.ttf\u0022,\r\n    \u0022Files\u0022: {\r\n      \u0022regular\u0022: \u0022http://fonts.gstatic.com/s/bungeeshade/v11/DtVkJxarWL0t2KdzK3oI_jks7iLSrwFUlw.ttf\u0022\r\n    },\r\n    \u0022Category\u0022: \u0022display\u0022\r\n  },\r\n  \u0022BlurRadius\u0022: 5,\r\n  \u0022IsShadowEnabled\u0022: true,\r\n  \u0022ShadowColor\u0022: \u0022#66000000\u0022,\r\n  \u0022ShadowBlur\u0022: 5,\r\n  \u0022ShadowAngle\u0022: 45,\r\n  \u0022ShadowDepth\u0022: 2.8688524590163933,\r\n  \u0022Width\u0022: 220.024,\r\n  \u0022Height\u0022: 64,\r\n  \u0022RenderTransform\u0022: {\r\n    \u0022ScaleX\u0022: 1,\r\n    \u0022ScaleY\u0022: 1,\r\n    \u0022TranslationX\u0022: 3.029,\r\n    \u0022TranslationY\u0022: 1.476\r\n  },\r\n  \u0022Opacity\u0022: 0.5,\r\n  \u0022RenderTransformOrigin\u0022: \u00220.5, 0.5\u0022,\r\n  \u0022Children\u0022: [],\r\n  \u0022IsVisible\u0022: true,\r\n  \u0022Name\u0022: \u0022Text 2\u0022\r\n}"
+    },
+    {
+      "Id": "duree_limitee",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/texts/demo2/duree_limitee.json",
+      "Width": 150.693,
+      "Height": 140.879,
+      "FileSize": 1181,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/texts/demo2/duree_limitee-148x138.png",
+      "Color": "#2cf38b8b",
+      "Data": "{\r\n  \u0022$type\u0022: \u0022text\u0022,\r\n  \u0022Text\u0022: \u0022REMISE SPECIALE - DUREE LIMITEE - \u0022,\r\n  \u0022Foreground\u0022: \u0022#fff81515\u0022,\r\n  \u0022IsOutlineEnabled\u0022: true,\r\n  \u0022OutlineColor\u0022: \u0022#ffedd1d1\u0022,\r\n  \u0022FontSize\u0022: 28.18072085757359,\r\n  \u0022OutlineRatio\u0022: 0.5,\r\n  \u0022TextAlignment\u0022: 3,\r\n  \u0022TextWrapping\u0022: 1,\r\n  \u0022Font\u0022: {\r\n    \u0022Family\u0022: \u0022Hi Melody\u0022,\r\n    \u0022Variants\u0022: [\r\n      \u0022regular\u0022\r\n    ],\r\n    \u0022Subsets\u0022: [\r\n      \u0022korean\u0022,\r\n      \u0022latin\u0022\r\n    ],\r\n    \u0022Version\u0022: \u0022v13\u0022,\r\n    \u0022LastModified\u0022: \u00222022-09-27T00:00:00\u0022,\r\n    \u0022Kind\u0022: \u0022webfonts#webfont\u0022,\r\n    \u0022Menu\u0022: \u0022http://fonts.gstatic.com/s/himelody/v13/46ktlbP8Vnz0pJcqCTb0fmVA.ttf\u0022,\r\n    \u0022Files\u0022: {\r\n      \u0022regular\u0022: \u0022http://fonts.gstatic.com/s/himelody/v13/46ktlbP8Vnz0pJcqCTbEf29E31BBGA.ttf\u0022\r\n    },\r\n    \u0022Category\u0022: \u0022handwriting\u0022\r\n  },\r\n  \u0022BlurRadius\u0022: 5,\r\n  \u0022ShadowColor\u0022: \u0022#3d000000\u0022,\r\n  \u0022ShadowBlur\u0022: 7.065574771068138,\r\n  \u0022ShadowAngle\u0022: 89.70499007428288,\r\n  \u0022ShadowDepth\u0022: 5,\r\n  \u0022Width\u0022: 150.693,\r\n  \u0022Height\u0022: 140.879,\r\n  \u0022RenderTransform\u0022: {\r\n    \u0022ScaleX\u0022: 1,\r\n    \u0022ScaleY\u0022: 1,\r\n    \u0022TranslationX\u0022: -1.288,\r\n    \u0022TranslationY\u0022: 0.669\r\n  },\r\n  \u0022Opacity\u0022: 0.5,\r\n  \u0022RenderTransformOrigin\u0022: \u00220.5, 0.5\u0022,\r\n  \u0022Children\u0022: [],\r\n  \u0022IsVisible\u0022: true,\r\n  \u0022Name\u0022: \u0022Text 2\u0022\r\n}"
+    },
+    {
+      "Id": "reduction",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/texts/demo2/reduction.json",
+      "Width": 272.148,
+      "Height": 54.013,
+      "FileSize": 1126,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/texts/demo2/reduction-148x30.png",
+      "Color": "#8f4b8684",
+      "Data": "{\r\n  \u0022$type\u0022: \u0022text\u0022,\r\n  \u0022Text\u0022: \u0022REDUCTION\u0022,\r\n  \u0022Foreground\u0022: \u0022Black\u0022,\r\n  \u0022IsOutlineEnabled\u0022: true,\r\n  \u0022OutlineColor\u0022: \u0022#ff93f2ff\u0022,\r\n  \u0022FontSize\u0022: 37.80339258558012,\r\n  \u0022OutlineRatio\u0022: 0.10000000149011612,\r\n  \u0022TextWrapping\u0022: 1,\r\n  \u0022Font\u0022: {\r\n    \u0022Family\u0022: \u0022Monoton\u0022,\r\n    \u0022Variants\u0022: [\r\n      \u0022regular\u0022\r\n    ],\r\n    \u0022Subsets\u0022: [\r\n      \u0022latin\u0022\r\n    ],\r\n    \u0022Version\u0022: \u0022v15\u0022,\r\n    \u0022LastModified\u0022: \u00222022-09-22T00:00:00\u0022,\r\n    \u0022Kind\u0022: \u0022webfonts#webfont\u0022,\r\n    \u0022Menu\u0022: \u0022http://fonts.gstatic.com/s/monoton/v15/5h1aiZUrOngCibe4TkfLRw.ttf\u0022,\r\n    \u0022Files\u0022: {\r\n      \u0022regular\u0022: \u0022http://fonts.gstatic.com/s/monoton/v15/5h1aiZUrOngCibe4fkbBQ2S7FU8.ttf\u0022\r\n    },\r\n    \u0022Category\u0022: \u0022display\u0022\r\n  },\r\n  \u0022BlurRadius\u0022: 5,\r\n  \u0022IsShadowEnabled\u0022: true,\r\n  \u0022ShadowColor\u0022: \u0022#66359c5a\u0022,\r\n  \u0022ShadowBlur\u0022: 6.606557377049185,\r\n  \u0022ShadowAngle\u0022: 45,\r\n  \u0022ShadowDepth\u0022: 5,\r\n  \u0022Width\u0022: 272.148,\r\n  \u0022Height\u0022: 54.013,\r\n  \u0022RenderTransform\u0022: {\r\n    \u0022ScaleX\u0022: 1,\r\n    \u0022ScaleY\u0022: 1,\r\n    \u0022TranslationX\u0022: 1.45,\r\n    \u0022TranslationY\u0022: 0.039\r\n  },\r\n  \u0022Opacity\u0022: 0.5,\r\n  \u0022RenderTransformOrigin\u0022: \u00220.5, 0.5\u0022,\r\n  \u0022Children\u0022: [],\r\n  \u0022IsVisible\u0022: true,\r\n  \u0022Name\u0022: \u0022Text 12\u0022\r\n}"
+    },
+    {
+      "Id": "soldes",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/texts/demo2/soldes.json",
+      "Width": 187.706,
+      "Height": 53.458,
+      "FileSize": 1163,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/texts/demo2/soldes-148x43.png",
+      "Color": "#313482b6",
+      "Data": "{\r\n  \u0022$type\u0022: \u0022text\u0022,\r\n  \u0022Text\u0022: \u0022SOLDES\u0022,\r\n  \u0022Foreground\u0022: \u0022#ff3c8abb\u0022,\r\n  \u0022OutlineColor\u0022: \u0022#ff885555\u0022,\r\n  \u0022FontSize\u0022: 42.666666666666664,\r\n  \u0022OutlineRatio\u0022: 0.17745901775531103,\r\n  \u0022TextWrapping\u0022: 1,\r\n  \u0022Font\u0022: {\r\n    \u0022Family\u0022: \u0022Rampart One\u0022,\r\n    \u0022Variants\u0022: [\r\n      \u0022regular\u0022\r\n    ],\r\n    \u0022Subsets\u0022: [\r\n      \u0022cyrillic\u0022,\r\n      \u0022japanese\u0022,\r\n      \u0022latin\u0022,\r\n      \u0022latin-ext\u0022\r\n    ],\r\n    \u0022Version\u0022: \u0022v7\u0022,\r\n    \u0022LastModified\u0022: \u00222022-09-27T00:00:00\u0022,\r\n    \u0022Kind\u0022: \u0022webfonts#webfont\u0022,\r\n    \u0022Menu\u0022: \u0022http://fonts.gstatic.com/s/rampartone/v7/K2F1fZFGl_JSR1tAWNG9R5qhJyo.ttf\u0022,\r\n    \u0022Files\u0022: {\r\n      \u0022regular\u0022: \u0022http://fonts.gstatic.com/s/rampartone/v7/K2F1fZFGl_JSR1tAWNG9R6qgLS76ZHOM.ttf\u0022\r\n    },\r\n    \u0022Category\u0022: \u0022display\u0022\r\n  },\r\n  \u0022BlurRadius\u0022: 5,\r\n  \u0022ShadowColor\u0022: \u0022#66bebebe\u0022,\r\n  \u0022ShadowBlur\u0022: 5,\r\n  \u0022ShadowAngle\u0022: -16.229508196721298,\r\n  \u0022ShadowDepth\u0022: 5.327868852459016,\r\n  \u0022Width\u0022: 187.706,\r\n  \u0022Height\u0022: 53.458,\r\n  \u0022RenderTransform\u0022: {\r\n    \u0022ScaleX\u0022: 1,\r\n    \u0022ScaleY\u0022: 1,\r\n    \u0022TranslationX\u0022: 0.026,\r\n    \u0022TranslationY\u0022: 2.959\r\n  },\r\n  \u0022Opacity\u0022: 0.5,\r\n  \u0022RenderTransformOrigin\u0022: \u00220.5, 0.5\u0022,\r\n  \u0022Children\u0022: [],\r\n  \u0022IsVisible\u0022: true,\r\n  \u0022Name\u0022: \u0022Text 5\u0022\r\n}"
+    },
+    {
+      "Id": "soldes_50",
+      "Url": "https://dbriard.github.io/stage-inpixio/content/texts/demo2/soldes_50.json",
+      "Width": 265.846,
+      "Height": 65.039,
+      "FileSize": 1136,
+      "ThumbUrl": "https://dbriard.github.io/stage-inpixio/content/texts/demo2/soldes_50-148x37.png",
+      "Color": "#5dd6d647",
+      "Data": "{\r\n  \u0022$type\u0022: \u0022text\u0022,\r\n  \u0022Text\u0022: \u0022SOLDES  -50%\u0022,\r\n  \u0022Foreground\u0022: \u0022#fff4fa17\u0022,\r\n  \u0022IsOutlineEnabled\u0022: true,\r\n  \u0022OutlineColor\u0022: \u0022#ffa7a0a0\u0022,\r\n  \u0022FontSize\u0022: 30.03077392578125,\r\n  \u0022OutlineRatio\u0022: 0.5,\r\n  \u0022TextAlignment\u0022: 1,\r\n  \u0022TextWrapping\u0022: 1,\r\n  \u0022Font\u0022: {\r\n    \u0022Family\u0022: \u0022Angkor\u0022,\r\n    \u0022Variants\u0022: [\r\n      \u0022regular\u0022\r\n    ],\r\n    \u0022Subsets\u0022: [\r\n      \u0022khmer\u0022,\r\n      \u0022latin\u0022\r\n    ],\r\n    \u0022Version\u0022: \u0022v28\u0022,\r\n    \u0022LastModified\u0022: \u00222022-04-20T00:00:00\u0022,\r\n    \u0022Kind\u0022: \u0022webfonts#webfont\u0022,\r\n    \u0022Menu\u0022: \u0022http://fonts.gstatic.com/s/angkor/v28/H4cmBXyAlsPdnlbO8yY6.ttf\u0022,\r\n    \u0022Files\u0022: {\r\n      \u0022regular\u0022: \u0022http://fonts.gstatic.com/s/angkor/v28/H4cmBXyAlsPdnlb-8iw-4Lqggw.ttf\u0022\r\n    },\r\n    \u0022Category\u0022: \u0022display\u0022\r\n  },\r\n  \u0022BlurRadius\u0022: 5,\r\n  \u0022ShadowColor\u0022: \u0022#3d000000\u0022,\r\n  \u0022ShadowBlur\u0022: 7.065574771068138,\r\n  \u0022ShadowAngle\u0022: 89.70499007428288,\r\n  \u0022ShadowDepth\u0022: 5,\r\n  \u0022Width\u0022: 265.846,\r\n  \u0022Height\u0022: 65.039,\r\n  \u0022RenderTransform\u0022: {\r\n    \u0022ScaleX\u0022: 1,\r\n    \u0022ScaleY\u0022: 1,\r\n    \u0022TranslationX\u0022: 0.619,\r\n    \u0022TranslationY\u0022: 1.73\r\n  },\r\n  \u0022Opacity\u0022: 0.5,\r\n  \u0022RenderTransformOrigin\u0022: \u00220.5, 0.5\u0022,\r\n  \u0022Children\u0022: [],\r\n  \u0022IsVisible\u0022: true,\r\n  \u0022Name\u0022: \u0022Text 2\u0022\r\n}"
+    }
+  ],
+  "Layout": {
+    "LayoutId": "UniformGridLayout",
+    "Orientation": 0,
+    "MaximumRowsOrColumns": 2,
+    "MinItemWidth": 96,
+    "MinItemHeight": 148
+  },
+  "Featured": 12
+}
